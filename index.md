@@ -4,8 +4,7 @@ permalink: "/"
 layout: home
 ---
 
-B. 1994 in Washington, D.C.
-Lives in New York City
+B. 1994 in Washington, D.C. and lives in New York City
 
 ## Writing
 
