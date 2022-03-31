@@ -36,5 +36,11 @@ body {font-family:'Helvetica', 'Arial', sans-serif;}
     margin:50px; padding-top:1px; max-width:640px;
     line-height:1.25;
     a {border-bottom:1px solid #ccc;}
+    @include breakpoint(s) {
+        margin:30px;
+    }
 }
-h1, h2 {margin-top:50px;}
+h1, h2 {
+    margin-top:50px;
+    @include breakpoint(s) {margin-top:30px;}
+}
