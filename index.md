@@ -21,7 +21,7 @@ B. 1994 in Washington, D.C.
 
 ## Curatorial Projects
 
-Sound installation for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021
+Sound installation "Automatic Fields" for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021
 <br>Curated group exhibition "Unbroken Chain" at 268 Space, NYC, featuring Anahita (Ani) Bradberry, Philip Evich, John Syzonenko, Laura Tighe, and Richard Tinkler, 2020
 
 ## Music
