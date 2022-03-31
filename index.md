@@ -18,8 +18,11 @@ B. 1994 in Washington, D.C.
 <br>**["Listening With Nate Lewis" for Dirt, 2020](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)**
 <br>**["Sounding the Anthropocene" for Silica Mag, 2020](https://www.silicamag.com/gallery/sounding-the-anthropocene)**
 
-## Art
+## Curatorial Projects
 
-**Sound installation for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021**
+Sound installation for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021
+<br>Curated group exhibition "Unbroken Chain" at 268 Space, NYC, featuring Anahita (Ani) Bradberry, Philip Evich, John Syzonenko, Laura Tighe, and Richard Tinkler, 2020
 
 ## Music
+
+Some of my sound compositions can be found **[here](https://maxlevin.bandcamp.com)**. Ask me to send you something.
