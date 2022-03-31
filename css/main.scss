@@ -28,3 +28,13 @@ input:focus, textarea:focus {outline:none;}
         @media screen and (max-width:375px) {@content;}
     }
 }
+
+// Styles
+
+body {font-family:'Helvetica', 'Arial', sans-serif;}
+.container {
+    margin:50px; padding-top:1px; max-width:640px;
+    line-height:1.25;
+    a {border-bottom:1px solid #ccc;}
+}
+h1, h2 {margin-top:50px;}

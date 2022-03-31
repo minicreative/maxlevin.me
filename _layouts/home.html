@@ -1,6 +1,8 @@
 {% include header.html %}
 
-    <h1>{{ site.title }}</h1>
-    {{ page.content | markdownify }}
-	
+    <div class="container">
+        <h1>{{ site.title }}</h1>
+        {{ page.content | markdownify }}
+    </div>
+    
 {% include footer.html %}
