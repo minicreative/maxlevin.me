@@ -15,4 +15,4 @@ B. 1994 in Washington, D.C.
 
 ## Art Projects
 
-**Sound installation within the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021**
+**Sound installation for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021**
