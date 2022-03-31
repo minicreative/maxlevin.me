@@ -4,7 +4,7 @@ permalink: "/"
 layout: home
 ---
 
-Here's a sample introduction paragraph. Here's a sample sentence for your introduction paragraph. Here's another sample sentence for you introduction paragraph.
+Based in Brooklyn
 
 ## Writing
 
