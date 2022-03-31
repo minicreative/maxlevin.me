@@ -23,7 +23,7 @@ B. 1994 in Washington, D.C.
 
 ## Art
 
-"Automatic Fields" sound installation at Andrew Edlin Gallery, NYC, 2021
+"Automatic Fields" is a sound installation I presented at Andrew Edlin Gallery, NYC, 2021
 <br>"Unbroken Chain" is a group exhibition I curated at 268 Space, NYC, 2020
 
 ## Music
