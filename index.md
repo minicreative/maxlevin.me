@@ -17,6 +17,7 @@ B. 1994 in Washington, D.C.
 <br>**["Witches, Angels, and Thieves: I'm Thinking of Sampling Things"](https://www.owenchristoph.com/shop/stopgap003)** for stop.gap, 2021
 <br>**["Seven Paintings"](https://56henry.nyc/exhibitions/seven-paintings)** at 56 Henry, NYC, 2020
 <br>**["Listening With Nate Lewis"](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)** for Dirt, 2020
+<br>**["Is This Real"](http://www.moskowitzbayse.com/eleanor-swordy-is-this-real)** at Moskowitz Bayse, Los Angeles, 2018
 
 ## Art
 
