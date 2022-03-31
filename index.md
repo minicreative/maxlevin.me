@@ -11,18 +11,18 @@ B. 1994 in Washington, D.C.
 
 ## Writing
 
-**[Richard Tinkler's "Large Paintings" at 56 Henry, NYC, 2022](https://56henry.nyc/exhibitions/large-paintings)**
-<br>**["New Mythology" at Lauren Powell Projects, Los Angeles, 2022](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)**
-<br>**["Wang Chen: Tintinnabulations" at Lauren Powell Projects, Los Angeles, 2022](https://www.laurenpowellprojects.com/exhibitions/2022/tintinnabulations)**
-<br>**["Witches, Angels, and Thieves: I'm Thinking of Sampling Things" for stop.gap, 2021](https://www.owenchristoph.com/shop/stopgap003)**
-<br>**[Richard Tinkler's "Seven Paintings" at 56 Henry, NYC, 2020](https://56henry.nyc/exhibitions/seven-paintings)**
-<br>**["Listening With Nate Lewis" for Dirt, 2020](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)**
-<br>**["Sounding the Anthropocene" for Silica Mag, 2020](https://www.silicamag.com/gallery/sounding-the-anthropocene)**
+**[Richard Tinkler's "Large Paintings"](https://56henry.nyc/exhibitions/large-paintings)** at 56 Henry, NYC, 2022
+<br>**["New Mythology"](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)** at Lauren Powell Projects, Los Angeles, 2022
+<br>**["Wang Chen: Tintinnabulations"](https://www.laurenpowellprojects.com/exhibitions/2022/tintinnabulations)** at Lauren Powell Projects, Los Angeles, 2022
+<br>**["Witches, Angels, and Thieves: I'm Thinking of Sampling Things"](https://www.owenchristoph.com/shop/stopgap003)**for stop.gap, 2021
+<br>**[Richard Tinkler's "Seven Paintings"](https://56henry.nyc/exhibitions/seven-paintings)**at 56 Henry, NYC, 2020
+<br>**["Listening With Nate Lewis"](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)** for Dirt, 2020
+<br>**["Sounding the Anthropocene"](https://www.silicamag.com/gallery/sounding-the-anthropocene)** for Silica Mag, 2020
 
 ## Curatorial Projects
 
-Sound installation "Automatic Fields" for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021
-<br>Curated group exhibition "Unbroken Chain" at 268 Space, NYC, featuring Anahita (Ani) Bradberry, Philip Evich, John Syzonenko, Laura Tighe, and Richard Tinkler, 2020
+Sound installation "Automatic Fields" at Andrew Edlin Gallery, 2021
+<br>Curated exhibition "Unbroken Chain" at 268 Space, NYC, 2020
 
 ## Music
 
