@@ -1,6 +1,8 @@
 ---
 title: Home
 permalink: "/"
+test:
+  description: test
 layout: home
 ---
 
