@@ -2,7 +2,9 @@
 title: Home
 permalink: "/"
 test:
-  description: test
+  description: |-
+    **test** this is a big test with
+    line breaks
 layout: home
 ---
 
