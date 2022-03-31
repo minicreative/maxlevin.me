@@ -3,6 +3,21 @@
     <div class="container">
         <h1>{{ site.title }}</h1>
         {{ page.content | markdownify }}
+
+        {% for section in page.sections %}
+            <h2>{{ section.title }}</h2>
+            {% if section.description %}{{ section.description | markdownify }}{% endif %}
+            {% if section.items %}
+            <ul>
+                {% for item in section.items %}
+                    <li>
+                        {{ item.description | markdownify }}
+                        {% if item.image %}<img src="{{ item.image }}" />{% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        {% endfor %}
     </div>
     
 {% include footer.html %}
