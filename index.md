@@ -5,6 +5,7 @@ test:
   description: |-
     **test** this is a big test with
     line breaks
+  image: "/uploads/Beaver-hero.jpg"
 layout: home
 ---
 
