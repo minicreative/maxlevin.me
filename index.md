@@ -6,7 +6,7 @@ layout: home
 
 B. 1994 in Washington, D.C.
 <br>Lives in New York City
-<br>Available for freelance editorial and curatorial work
+<br>Available for editorial and curatorial work
 <br>[max.levin@me.com](mailto:max.levin@me.com)
 <br>[@attelets](https://www.instagram.com/attelets/) 
 
