@@ -6,6 +6,7 @@ layout: home
 
 B. 1994 in Washington, D.C.
 <br>Lives in New York City
+<br>[@attelets](https://www.instagram.com/attelets/) 
 
 ## Writing
 
@@ -17,3 +18,5 @@ B. 1994 in Washington, D.C.
 ## Art Projects
 
 **Sound installation for the exhibition "Agatha Wojciechowsky: Spirits Among Us" at Andrew Edlin Gallery, 2021**
+
+## Music
