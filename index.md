@@ -19,7 +19,7 @@ B. 1994 in Washington, D.C.
 <br>**["Listening With Nate Lewis"](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)** for Dirt, 2020
 <br>**["Sounding the Anthropocene"](https://www.silicamag.com/gallery/sounding-the-anthropocene)** for Silica Mag, 2020
 
-## Curatorial Projects
+## Art
 
 Sound installation "Automatic Fields" at Andrew Edlin Gallery, 2021
 <br>Curated exhibition "Unbroken Chain" at 268 Space, NYC, 2020
