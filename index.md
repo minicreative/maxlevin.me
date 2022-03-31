@@ -13,7 +13,10 @@ B. 1994 in Washington, D.C.
 **[Richard Tinkler's "Large Paintings" at 56 Henry, NYC, 2022](https://56henry.nyc/exhibitions/large-paintings)**
 <br>**["New Mythology" at Lauren Powell Projects, Los Angeles, 2022](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)**
 <br>**["Wang Chen: Tintinnabulations" at Lauren Powell Projects, Los Angeles, 2022](https://www.laurenpowellprojects.com/exhibitions/2022/tintinnabulations)**
+<br>**["Witches, Angels, and Thieves: I'm Thinking of Sampling Things" for stop.gap, 2021](https://www.owenchristoph.com/shop/stopgap003)**
 <br>**[Richard Tinkler's "Seven Paintings" at 56 Henry, NYC, 2020](https://56henry.nyc/exhibitions/seven-paintings)**
+<br>**["Listening With Nate Lewis" for Dirt, 2020](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)**
+<br>**["Sounding the Anthropocene" for Silica Mag, 2020](https://www.silicamag.com/gallery/sounding-the-anthropocene)**
 
 ## Art
 
