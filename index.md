@@ -4,8 +4,9 @@ permalink: "/"
 layout: home
 ---
 
-Based in Brooklyn
+B. 1994 in Washington, D.C.
+Lives in New York City
 
 ## Writing
 
-**[Exhibition press release for Richard Tinkler's "Large Paintings" 56 Henry](https://56henry.nyc/exhibitions/large-paintings)**[ - Same description or whatever relevant content](http://google.com)
+**[Exhibition press release for Richard Tinkler's "Large Paintings" 56 Henry](https://56henry.nyc/exhibitions/large-paintings)**
