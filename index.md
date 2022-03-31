@@ -17,7 +17,6 @@ B. 1994 in Washington, D.C.
 <br>**["Witches, Angels, and Thieves: I'm Thinking of Sampling Things"](https://www.owenchristoph.com/shop/stopgap003)** for stop.gap, 2021
 <br>**[Richard Tinkler: "Seven Paintings"](https://56henry.nyc/exhibitions/seven-paintings)** at 56 Henry, NYC, 2020
 <br>**["Listening With Nate Lewis"](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)** for Dirt, 2020
-<br>**["Sounding the Anthropocene"](https://www.silicamag.com/gallery/sounding-the-anthropocene)** for Silica Mag, 2020
 
 ## Art
 
