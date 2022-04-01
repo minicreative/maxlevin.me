@@ -7,11 +7,13 @@ sections:
   - description: '**"Truth Flickers"** for X-TRA, 2022'
   - description: '**["Large Paintings"](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022'
+    Image: "/uploads/ddd390cfc2be153d2100d1c51f19c6e87925adb3-3777x5554.jpg"
   - description: '**["New Mythology"](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)**
       at Lauren Powell Projects, Los Angeles, 2022'
     image: "/uploads/sublime.png"
   - description: '**["Tintinnabulations"](https://www.laurenpowellprojects.com/exhibitions/2022/tintinnabulations)**
       at Lauren Powell Projects, Los Angeles, 2022'
+    Image: "/uploads/Screen%20Shot%202022-04-01%20at%202.07.43%20AM.png"
   - description: '**["Witches, Angels, and Thieves: I''m Thinking of Sampling Things"](https://www.owenchristoph.com/shop/stopgap003)**
       for stop.gap, 2021'
   - description: '**["Seven Paintings"](https://56henry.nyc/exhibitions/seven-paintings)**
