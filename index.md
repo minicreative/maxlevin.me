@@ -22,12 +22,10 @@ sections:
       for Dirt, 2020"
   - description: "**[*White House Painter*](http://www.newartexaminer.net/white-house-painter/)**
       for New Art Examiner, 2020"
-  - description: "**[*Is This Real*](http://www.moskowitzbayse.com/eleanor-swordy-is-this-real)**
-      at Moskowitz Bayse, Los Angeles, 2018"
 - title: Art
   items:
-  - description: "*Automatic Fields* is a sound installation I presented at Andrew
-      Edlin Gallery, NYC, 2021"
+  - description: "*Automatic Fields* is an eleven minute sound installation I presented
+      at Andrew Edlin Gallery, NYC, 2021"
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
 - title: Music
