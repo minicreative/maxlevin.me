@@ -4,7 +4,6 @@ permalink: "/"
 sections:
 - title: Writing
   items:
-  - description: "***Truth Flickers*** for X-TRA, 2022"
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     Image: "/uploads/ddd390cfc2be153d2100d1c51f19c6e87925adb3-3777x5554.jpg"
