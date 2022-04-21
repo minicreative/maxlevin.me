@@ -19,6 +19,7 @@ images:
 - "/uploads/SG14.png"
 - "/uploads/SG15.JPG"
 - "/uploads/SG16.png"
+- "/uploads/IMG_0639.jpg"
 layout: gallery
 ---
 
