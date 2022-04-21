@@ -6,7 +6,7 @@ sections:
   items:
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
-    image: "/uploads/ddd390cfc2be153d2100d1c51f19c6e87925adb3-3777x5554.jpg"
+    image: "/uploads/tinkler2.jpg"
   - description: "**[*New Mythology*](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)**
       at Lauren Powell Projects, Los Angeles, 2022"
     image: "/uploads/sublime.png"
