@@ -40,7 +40,7 @@ h2 {font-size:20px;}
     line-height:1.5;
     a {border-bottom:1px solid #ccc;}
     @include breakpoint(m) {
-        width:100%; padding:30px;
+        padding:30px;
     }
 }
 h1, h2 {
@@ -50,6 +50,9 @@ h1, h2 {
 
 .home {
     width:70vw;
+    @include breakpoint(m) {
+        width:100%;
+    }
     ul {list-style-type:none; margin:0px; padding:0px;}
     li {margin-top:6px;}
     li p {margin:0px;}
