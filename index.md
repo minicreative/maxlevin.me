@@ -13,7 +13,7 @@ sections:
   - description: "**[*Tintinnabulations*](https://www.laurenpowellprojects.com/exhibitions/2022/tintinnabulations)**
       at Lauren Powell Projects, Los Angeles, 2022"
     image: "/uploads/Screen%20Shot%202022-04-01%20at%202.07.43%20AM.png"
-  - description: "**[*Witches, Angels, and Thieves: I'm Thinking of Sampling Things*](https://www.owenchristoph.com/shop/stopgap003)**
+  - description: "**[*Witches, Angels, and Thieves: I'm Thinking of Sampling Things*](maxlevin.me/galleries/sample-gallery.html)**
       for stop.gap, 2021"
   - description: "**[*Seven Paintings*](https://56henry.nyc/exhibitions/seven-paintings)**
       at 56 Henry, NYC, 2020"
