@@ -1,6 +1,7 @@
 ---
 title: Sample gallery
 date: 2022-04-20 20:55:00 -04:00
+layout: gallery
 images:
 - "/uploads/gwb-painting.jpg"
 - "/uploads/1.jpg"
@@ -10,3 +11,4 @@ images:
 - "/uploads/sublime.png"
 ---
 
+Sample content goes here.

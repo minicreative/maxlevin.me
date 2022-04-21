@@ -31,9 +31,12 @@ input:focus, textarea:focus {outline:none;}
 
 // Styles
 
-body {font-family:'Helvetica', 'Arial', sans-serif;}
+body {font-family:'Helvetica', 'Arial', sans-serif; font-size:15px;}
+h1 {font-size:28px;}
+h2 {font-size:20px;}
+
 .container {
-    padding:50px; width:70vw;
+    padding:50px; 
     line-height:1.5;
     a {border-bottom:1px solid #ccc;}
     @include breakpoint(m) {
@@ -41,13 +44,22 @@ body {font-family:'Helvetica', 'Arial', sans-serif;}
     }
 }
 h1, h2 {
-    margin:30px 0px 15px;
-    @include breakpoint(s) {margin-top:20px 0px 10px;}
+    margin:20px 0px 12px;
+    @include breakpoint(s) {margin-top:15px 0px 10px;}
 }
-ul {list-style-type:none; margin:0px; padding:0px;}
-li p {margin:0px;}
-li img {display:none;}
-li:hover img {
-    display:block; position:fixed; right:50px; top:50px; width:calc(30vw - 50px);
-    @include breakpoint(m) {display:none;}
+
+.home {
+    width:70vw;
+    ul {list-style-type:none; margin:0px; padding:0px;}
+    li {margin-top:6px;}
+    li p {margin:0px;}
+    li img {display:none;}
+    li:hover img {
+        display:block; position:fixed; right:50px; top:50px; width:calc(30vw - 50px);
+        @include breakpoint(m) {display:none;}
+    }
+}
+
+.gallery {
+    margin:20px -10px -10px;
 }

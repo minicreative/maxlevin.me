@@ -1,0 +1,23 @@
+{% include header.html %}
+
+    <div class="container">    
+        <a href="/"><h1>{{ site.title }}</h1></a>
+        <h2>{{ page.title }}</h2>
+        {% if page.content %}{{ page.content | markdownify }}{% endif %}
+        <div class="gallery" id="justified-gallery">
+            {% for url in page.images %}
+                <a href="{{ url }}" data-lightbox="gallery"><img src="{{ url }}" /></a>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#justified-gallery").justifiedGallery({
+                rowHeight: 180,
+                margins: 10,
+            });
+        });
+    </script>
+
+{% include footer.html %}
