@@ -22,3 +22,4 @@ images:
 layout: gallery
 ---
 
+Physical copies can be ordered [here](https://www.owenchristoph.com/shop/stopgap003). 
