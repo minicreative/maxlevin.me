@@ -4,6 +4,9 @@ permalink: "/"
 sections:
 - title: Writing
   items:
+  - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
+      for Screen Slate, 2022"
+    image: "/uploads/opwBv6y4.jpeg"
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
