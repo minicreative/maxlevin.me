@@ -6,7 +6,7 @@ sections:
   items:
   - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
       for Screen Slate, 2022"
-    image: "/uploads/opwBv6y4.jpeg"
+    image: "/uploads/Screen%20Shot%202022-05-02%20at%208.02.58%20PM.png"
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
