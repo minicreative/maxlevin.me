@@ -40,7 +40,7 @@ sections:
 layout: home
 ---
 
-B. 1994 in Washington, D.C.\
+b. 1994 in Washington, D.C.\
 Lives in New York City\
 [max.levin@me.com](mailto:max.levin@me.com)\
 [@attelets](https://www.instagram.com/attelets/)
