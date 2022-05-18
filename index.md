@@ -4,6 +4,10 @@ permalink: "/"
 sections:
 - title: Writing
   items:
+  - description: |-
+      **[*Jonas Mekas: The Camera Was Always Running*]
+      (http://www.screenslate.com/articles/jonas-mekas-camera-was-always-running)** for Screen Slate, 2022
+    image: "/uploads/Jonas-Mekas.jpg"
   - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
       for Screen Slate, 2022"
     image: "/uploads/Screen%20Shot%202022-05-02%20at%208.02.58%20PM.png"
