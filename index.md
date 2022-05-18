@@ -33,9 +33,9 @@ sections:
     image: "/uploads/Screen%20Shot%202022-04-20%20at%2010.55.50%20PM.jpg"
 - title: Art
   items:
-  - description: |-
-      *Automatic Fields* is an eleven minute sound installation I presented to accompany an Agatha Wojciechowsky
-      exhibition at Andrew Edlin Gallery, NYC, 2021
+  - description: "*Automatic Fields* is an eleven minute sound installation I presented
+      to accompany an \nAgatha Wojciechowsky\nexhibition at Andrew Edlin Gallery,
+      NYC, 2021"
     image: "/uploads/IMG_2932.jpg"
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
