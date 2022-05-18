@@ -38,6 +38,7 @@ sections:
     image: "/uploads/IMG_2932.jpg"
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
+    image: "/uploads/IMG_2300.jpg"
 - title: Music
   description: Some of my sound compositions can be found **[here](https://maxlevin.bandcamp.com)**.
     Ask me to send you something.
