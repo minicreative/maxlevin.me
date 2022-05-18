@@ -5,7 +5,7 @@ sections:
 - title: Writing
   items:
   - description: |-
-      **[*Jonas Mekas / The Camera Was Always Running*]
+      **[*Jonas Mekas The Camera Was Always Running*]
       (http://www.screenslate.com/articles/jonas-mekas-camera-was-always-running)** for Screen Slate, 2022
     image: "/uploads/Jonas-Mekas.jpg"
   - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
