@@ -4,7 +4,7 @@ permalink: "/"
 sections:
 - title: Writing
   items:
-  - description: "**[*Jerry Hunt: Transmissions from the Pleroma*](http://www.screenslate.com/articles/jerry-hunt-transmissions-pleroma)**
+  - description: "**[*Jerry Hunt: Transmissions from the Pleroma*](http://screenslate.com/articles/jerry-hunt-transmissions-pleroma)**
       for Screen Slate, 2022"
     image: "/uploads/Jerry-Hunt.jpg"
   - description: "**[*Jonas Mekas: The Camera Was Always Running*](http://www.screenslate.com/articles/jonas-mekas-camera-was-always-running)**
