@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-calendarHeader: Events I'm going to
+calendarHeader: Future Events Radar
 sections:
 - title: Writing
   items:
