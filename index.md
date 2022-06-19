@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-calendarHeader: Future Events Radar
+calendarHeader: Radar
 sections:
 - title: Writing
   items:
