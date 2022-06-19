@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: "/"
+calendarHeader: Events I'm going to
 sections:
 - title: Writing
   items:
