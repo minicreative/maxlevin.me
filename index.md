@@ -5,6 +5,9 @@ calendarHeader: Radar
 sections:
 - title: Writing
   items:
+  - description: "**[*Truth Flickers*](https://www.x-traonline.org/article/truth-flickers)**
+      for X-TRA, 2022"
+    image: "/uploads/Screen%20Shot%202022-07-12%20at%207.07.56%20PM.jpg"
   - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**
       for Screen Slate, 2022"
     image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
