@@ -5,6 +5,9 @@ calendarHeader: Radar
 sections:
 - title: Writing
   items:
+  - description: "**[*Arthur Jafa’s The White Album*](https://www.screenslate.com/articles/arthur-jafas-white-album)**
+      for Screen Slate, 2022"
+    image: "/uploads/1458304C-90F3-4C3A-AC02-5BCED3A0C62E.jpeg"
   - description: "**[*Truth Flickers*](https://www.x-traonline.org/article/truth-flickers)**
       for X-TRA, 2022"
     image: "/uploads/Screen%20Shot%202022-07-12%20at%207.07.56%20PM.jpg"
