@@ -54,7 +54,7 @@ sections:
     image: "/uploads/IMG_2300.jpg"
 - title: Music
   description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**
-    and on Spotify **[here] (https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
+    and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
     Ask me to send you something.
   image: "/uploads/a2750980685_10.jpg"
 layout: home
