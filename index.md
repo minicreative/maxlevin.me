@@ -1,10 +1,19 @@
 ---
 title: Home
 permalink: "/"
-calendarHeader: Future Events Radar
+calendarHeader: Radar
 sections:
 - title: Writing
   items:
+  - description: "**[*Arthur Jafa’s The White Album*](https://www.screenslate.com/articles/arthur-jafas-white-album)**
+      for Screen Slate, 2022"
+    image: "/uploads/1458304C-90F3-4C3A-AC02-5BCED3A0C62E.jpeg"
+  - description: "**[*Truth Flickers*](https://www.x-traonline.org/article/truth-flickers)**
+      for X-TRA, 2022"
+    image: "/uploads/Screen%20Shot%202022-07-12%20at%207.07.56%20PM.jpg"
+  - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**
+      for Screen Slate, 2022"
+    image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
   - description: "**[*Jerry Hunt: Transmissions from the Pleroma*](http://screenslate.com/articles/jerry-hunt-transmissions-pleroma)**
       for Screen Slate, 2022"
     image: "/uploads/Jerry-Hunt.jpg"
@@ -46,7 +55,8 @@ sections:
       2020"
     image: "/uploads/IMG_2300.jpg"
 - title: Music
-  description: Some of my sound compositions can be found **[here](https://maxlevin.bandcamp.com)**.
+  description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**
+    and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
     Ask me to send you something.
   image: "/uploads/a2750980685_10.jpg"
 layout: home
