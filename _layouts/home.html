@@ -18,18 +18,7 @@
             </ul>
             {% endif %}
         {% endfor %}
-
-        <h2>{{ page.calendarHeader }}</h2>
-        <iframe id="calframe" src="https://calendar.google.com/calendar/u/0/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&showTabs=0&showCalendars=0&showNav=0&showTz=0&showPrint=0&showDate=0&showTitle=0&src=ipf64s1a1d693tq5h6ceu37dns%40group.calendar.google.com&ctz=America%2FNew_York&color=%23ffffff"></iframe>
-        <script type="text/javascript">
-            window.onload = function() {
-                let iframe = document.getElementById("calframe");
-                console.log(iframe)
-                let doc = iframe.contentDocument;
-                console.log(doc)
-                doc.body.innerHTML = doc.body.innerHTML + '<style>body {background:black;}/style>';
-            }
-        </script>
+        
     </div>
     
 {% include footer.html %}

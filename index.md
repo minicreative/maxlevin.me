@@ -35,6 +35,8 @@ sections:
   - description: "**[*White House Painter*](http://www.newartexaminer.net/white-house-painter/)**
       for New Art Examiner, 2020"
     image: "/uploads/Screen%20Shot%202022-04-20%20at%2010.55.50%20PM.jpg"
+- title: Radar
+  calendarList: true
 - title: Art
   items:
   - description: "*Automatic Fields* is an eleven minute sound installation I presented
