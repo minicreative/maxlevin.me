@@ -1,6 +1,6 @@
 ---
 title: Radar
-permalink: "/radar"
+permalink: "/radar/"
 layout: radar
 ---
 
