@@ -3,13 +3,11 @@
     <div class="container home">
         <p><a href="/">< Back</a></p>
         <h1>{{ page.title }}</h1>
-
         {{ page.content | markdownify }}
-
-        <div id="calendarList">
+        <div id="calendarList" class="{{ page.calendarListClass }}">
             <ul><li><i>Loading...</i></li></ul>
         </div>
-
+        <p><a href="/">< Back</a></p>
     </div>
     
 {% include footer.html %}

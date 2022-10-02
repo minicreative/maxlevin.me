@@ -10,7 +10,9 @@ $(document).ready(() => {
     $("#calendarList").each(function() {
 
         let div = $(this)
-        let previewList = div.hasClass("preview")
+        let isPreview = div.hasClass("preview")
+        let onlyPast = div.hasClass("onlyPast")
+        let onlyUpcoming = div.hasClass("onlyUpcoming")
         let upcomingItems = []
         let pastItems = []
 
@@ -29,12 +31,6 @@ $(document).ready(() => {
                     end = Date.parse(item.end.date)
                 } else {
                     continue
-                }
-
-                // Handle filters
-                if (previewList) {
-                    if (end < now) continue
-                    if (upcomingItems.length >= 10) break
                 }
 
                 // Format date
@@ -66,6 +62,7 @@ $(document).ready(() => {
                     </div>
                     ${details}
                 </li>`)
+                if (item.description) li.addClass("hasDetails")
 
                 // Push element into correct array
                 if (start > now) upcomingItems.push(li)
@@ -75,23 +72,32 @@ $(document).ready(() => {
             // Reverse past items
             pastItems.reverse()
 
-            // Setup HTML
+            // Trim arrays if preview
+            if (isPreview) {
+                pastItems = pastItems.slice(0, 5)
+                upcomingItems = upcomingItems.slice(0, 5)
+            }
+
+            // Setup and insert HTML
             let upcomingList = $("<ul></ul>")
             for (let i of upcomingItems) upcomingList.append(i)
             let pastList = $("<ul></ul>")
             for (let i of pastItems) pastList.append(i)
 
-            if (div.hasClass("preview")) {
-                div.html(upcomingList)
-            } else {
-                let html = $("<div></div>")
-                html.append("<h2>Upcoming Events</h2>")
+            let html = $("<div></div>")
+            if (!onlyPast) {
+                if (isPreview) html.append("<h2>Upcoming Events</h2>")
                 html.append(upcomingList)
-                html.append("<h2>Past Events</h2>")
-                html.append(pastList)
-                div.html(html)
+                if (isPreview) html.append("<p><a href='/upcoming-events'>View all upcoming events</a></p>")
             }
+            if (!onlyUpcoming) {
+                if (isPreview) html.append("<h2>Past Events</h2>")
+                html.append(pastList)
+                if (isPreview) html.append("<p><a href='/past-events'>View all past events</a></p>")
+            }
+            div.html(html)
 
+            // Setup click listeners
             $("li .main").on('click', function() {
                 $(this).parent().toggleClass("expanded")
             })
