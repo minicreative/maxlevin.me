@@ -65,8 +65,14 @@ $(document).ready(() => {
                 if (item.description) li.addClass("hasDetails")
 
                 // Push element into correct array
-                if (start > now) upcomingItems.push(li)
-                else pastItems.push(li)
+                if (start > now) {
+                    li.addClass("upcoming")
+                    upcomingItems.push(li)
+                }
+                else {
+                    li.addClass("past")
+                    pastItems.push(li)
+                }
             }
 
             // Reverse past items
@@ -86,12 +92,13 @@ $(document).ready(() => {
 
             let html = $("<div></div>")
             if (!onlyPast) {
-                if (isPreview) html.append("<h2>Upcoming Events</h2>")
+                if (isPreview) html.append("<h2>Upcoming</h2>")
                 html.append(upcomingList)
                 if (isPreview) html.append("<p><a href='/upcoming-events'>View all upcoming events</a></p>")
             }
             if (!onlyUpcoming) {
-                if (isPreview) html.append("<h2>Past Events</h2>")
+                if (isPreview) html.append("<h2>Past</h2>")
+                html.append("<p>Events in bold contain audio and text materials from the event.</p>")
                 html.append(pastList)
                 if (isPreview) html.append("<p><a href='/past-events'>View all past events</a></p>")
             }

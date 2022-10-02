@@ -68,8 +68,11 @@ h1, h2 {
 
 #calendarList {
     li {
-        .title {border-bottom:1px solid #ccc; font-style:italic; cursor:pointer;}
-        &.hasDetails .title {font-weight: bold;}
+        .title {border-bottom:1px solid #ccc; font-style:italic; font-weight: bold; cursor:pointer;}
+        &.past {
+            .title {font-weight:normal}
+            &.hasDetails .title {font-weight:bold;}
+        }
         .details {height:0px; overflow:hidden;}
         &.expanded {
             margin:10px -12px 10px -12px; border:1px solid #eee;
@@ -77,7 +80,6 @@ h1, h2 {
             .details {background:#eee; height:auto;}
         }
     }
-    
 }
 
 .gallery {
