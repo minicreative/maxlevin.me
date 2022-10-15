@@ -4,6 +4,9 @@ permalink: "/"
 sections:
 - title: Writing
   items:
+  - description: "**[*Slayed: LGBTQ+ Horror Shorts*](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**
+      for Screen Slate, 2022"
+    image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
   - description: "**[*Arthur Jafa’s The White Album*](https://www.screenslate.com/articles/arthur-jafas-white-album)**
       for Screen Slate, 2022"
     image: "/uploads/1458304C-90F3-4C3A-AC02-5BCED3A0C62E.jpeg"
