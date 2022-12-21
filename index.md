@@ -54,9 +54,9 @@ sections:
       2020"
     image: "/uploads/IMG_2300.jpg"
 - title: Music
-  description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**
-    and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
-    Ask me to send you something.
+  description: |-
+    2022 Spotify Playlist **[here](https://open.spotify.com/track/2MCfGp2DH13lkjHTUuayGj?si=12169bbcd8324a7b)**
+    Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)** and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**. Ask me to send you something.
   image: "/uploads/a2750980685_10.jpg"
 layout: home
 ---
