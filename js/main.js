@@ -49,7 +49,7 @@ $(document).ready(() => {
                     let description = item.description
                     description = description.replaceAll(/(?:\r\n|\r|\n)/g, '<br>')
                     let links = description.match(linkRegex)
-                    for (let i of links) description = description.replace(i, `<a href='${i}'>${i}</a>`)
+                    if (links && links.length) for (let i of links) description = description.replace(i, `<a href='${i}'>${i}</a>`)
                     details += `<p>${description}</p>`
                 }
                 details += "</div>"
