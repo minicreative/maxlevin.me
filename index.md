@@ -4,6 +4,9 @@ permalink: "/"
 sections:
 - title: Writing
   items:
+  - description: "**[*Clean Slate: On Ricky D'Ambrose's The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**
+      for LA Review of Books, 2023"
+    image: "/uploads/forsite.jpg"
   - description: "**[*Slayed: LGBTQ+ Horror Shorts*](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**
       for Screen Slate, 2022"
     image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
