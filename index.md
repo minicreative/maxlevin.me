@@ -4,6 +4,8 @@ permalink: "/"
 position: 0
 sections:
 - title: Writing
+  condense_button: "View all writing"
+  condense_count: 8
   items:
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
       for Screen Slate, 2023"
@@ -50,8 +52,6 @@ sections:
   - description: "**[*White House Painter*](http://www.newartexaminer.net/white-house-painter/)**
       for New Art Examiner, 2020"
     image: "/uploads/Screen%20Shot%202022-04-20%20at%2010.55.50%20PM.jpg"
-  condense_button: "View all writing"
-  condense_count: 8
 - title: Radar
   calendarList: true
 - title: Art
