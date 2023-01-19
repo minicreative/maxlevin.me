@@ -4,7 +4,7 @@ permalink: "/"
 position: 0
 sections:
 - title: Writing
-  condense_button: "View all writing"
+  condense_button: View all writing
   condense_count: 8
   items:
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
