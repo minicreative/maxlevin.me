@@ -4,6 +4,12 @@ permalink: "/"
 sections:
 - title: Writing
   items:
+  - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
+      for Screen Slate, 2023"
+    image: "/uploads/Hopinka.jpg"
+  - description: "**[*Clean Slate: On Ricky D'Ambrose's The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**
+      for LA Review of Books, 2023"
+    image: "/uploads/forsite.jpg"
   - description: "**[*Slayed: LGBTQ+ Horror Shorts*](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**
       for Screen Slate, 2022"
     image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
@@ -55,10 +61,13 @@ sections:
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
     image: "/uploads/IMG_2300.jpg"
-- title: Music
-  description: "2022 Spotify Playlist **[here](https://open.spotify.com/playlist/5EZnx3u27kBMVS3pJ94UT3?si=61a000ca7ff84a96)**.\n<br>Some
-    of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**
-    and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
+- title: More
+  description: "Best of list for favorite first viewings of film and video performance
+    of 2022 for **[Screen Slate](https://www.screenslate.com/articles/best-movies-2022-first-viewings-discoveries-and-individual-ballots#levin)**.\n<br>A
+    **[playlist](https://open.spotify.com/playlist/5EZnx3u27kBMVS3pJ94UT3?si=46e9fe0e70b3411a)**
+    of favorite music I listened to in 2022.\n<br>Some of my sound compositions can
+    be found on Bandcamp **[here](https://maxlevin.bandcamp.com)** and on Spotify
+    **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
     \n<br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
 layout: home
