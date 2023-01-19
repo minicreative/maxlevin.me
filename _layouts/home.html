@@ -9,13 +9,17 @@
             {% if section.description %}{{ section.description | markdownify }}{% endif %}
 
             {% if section.items %}
-            <ul>
+            <ul class="{% if section.condense_button %}condense{% endif %}">
                 {% for item in section.items %}
                     <li>
                         {{ item.description | markdownify }}
                         {% if item.image %}<img src="{{ item.image }}" />{% endif %}
                     </li>
                 {% endfor %}
+                {% if section.condense_button %}
+                    <div id="condenseCount">{{ section.condense_count }}</div>
+                    <span id="expandButton">{{ section.condense_button }}</span>
+                {% endif %}
             </ul>
             {% endif %}
 

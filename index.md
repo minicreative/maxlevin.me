@@ -43,6 +43,8 @@ sections:
   - description: "**[*White House Painter*](http://www.newartexaminer.net/white-house-painter/)**
       for New Art Examiner, 2020"
     image: "/uploads/Screen%20Shot%202022-04-20%20at%2010.55.50%20PM.jpg"
+  condense_button: "View all writing"
+  condense_count: 8
 - title: Radar
   calendarList: true
 - title: Art

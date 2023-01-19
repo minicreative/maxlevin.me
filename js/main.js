@@ -1,12 +1,14 @@
+$(document).ready(() => {
+    setupCalendar()
+    condenseLists()
+})
 
 const CALENDAR_ID = "ipf64s1a1d693tq5h6ceu37dns@group.calendar.google.com"
 const PROTECTED_API_KEY = "AIzaSyCxWn3YgVxbXSzquwQr8Y0JccImuNvNNt4"
-
 import { format } from 'https://esm.run/date-fns';
 let linkRegex = new RegExp(/(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g)
 
-// Setup calendar
-$(document).ready(() => {
+function setupCalendar() {
     $("#calendarList").each(function() {
 
         let div = $(this)
@@ -111,4 +113,23 @@ $(document).ready(() => {
             
         })
     })
-})
+}
+
+function condenseLists() {
+    $("ul.condense").each(function() {
+        let index = 0
+        let count = parseInt($(this).find("#condenseCount").text())
+        let button = $(this).find("#expandButton")
+        let list = $(this).find("li")
+        list.each(function() {
+            index++;
+            if (index > count) $(this).hide()
+        })
+        button.on("click", function() {
+            list.each(function() {
+                $(this).show()
+            })
+            $(this).hide()
+        })
+    })
+}
