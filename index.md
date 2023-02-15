@@ -8,7 +8,7 @@ sections:
   condense_count: 8
   items:
   - description: "**[*Shirin Neshat: The Fury*](https://www.screenslate.com/articles/shirin-neshat-fury)**
-      for Screen Slate, 2023"
+      for Screen Slate,  2023"
     image: "/uploads/Fury-Shirin-Nesat.jpg"
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
       for Screen Slate, 2023"
