@@ -42,10 +42,8 @@ jobs:
       with:
         base64-kube-config: ${{ secrets.KUBE_CONFIG }}
     - uses: actions/checkout@v3
-    - run: echo "LATEST_HASH=$(git rev-parse origin/main)" >> $GITHUB_ENV
-    - run: echo "$LATEST_HASH"
-    - run: echo ${{ env.LATEST_HASH }}
-    - run: echo ${{ github.sha }}
-    - name: Update Kubernetes deployment
+    - name: Provide latest hash on remote to environment
+      run: echo "LATEST_HASH=$(git rev-parse origin/main)" >> $GITHUB_ENV
+    - name: Update Kubernetes deployment if latest hash
       if: ${{ github.sha == env.LATEST_HASH }}
       run: kubectl set image "deployment/$KUBE_DEPLOYMENT" "main=$DOCKER_TAG"
