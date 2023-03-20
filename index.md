@@ -7,6 +7,9 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
+  - description: "**[*Bill Viola at James Cohan*](https://www.screenslate.com/articles/bill-viola-james-cohan)**
+      for Screen Slate,  2023"
+    image: "/uploads/fd795193d946741c5c9e86ffd5861634.jpg"
   - description: "**[*Shirin Neshat: The Fury*](https://www.screenslate.com/articles/shirin-neshat-fury)**
       for Screen Slate,  2023"
     image: "/uploads/Fury-Shirin-Nesat.jpg"
