@@ -5,8 +5,6 @@ $(document).ready(() => {
 
 const CALENDAR_ID = "ipf64s1a1d693tq5h6ceu37dns@group.calendar.google.com"
 const PROTECTED_API_KEY = "AIzaSyCxWn3YgVxbXSzquwQr8Y0JccImuNvNNt4"
-import { format } from 'https://esm.run/date-fns';
-import { utcToZonedTime } from 'https://esm.run/date-fns-tz';
 let linkRegex = new RegExp(/(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g)
 
 function setupCalendar() {
@@ -36,11 +34,14 @@ function setupCalendar() {
                     continue
                 }
 
-                // Format date
-                let nycStart = utcToZonedTime(start, 'America/New_York')
-                let timeString = format(nycStart, 'EEE MMMM d, yyyy @ h:mmaaaa')
+                // Old date-fns functionality
+                // let nycStart = utcToZonedTime(start, 'America/New_York')
+                // let timeString = format(nycStart, 'EEE MMMM d, yyyy @ h:mmaaaa')
                 // if (end - start > (60*60*24)) timeString += format(end, ' - ha')
                 // else timeString += format(end, ' - MMM d, yyyy @ ha')
+
+                // Format date
+                let timeString = dayjs(start).format('ddd MMMM D, YYYY @ h:mma')
 
                 // Details
                 let details = "<div class='details'>"
