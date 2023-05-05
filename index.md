@@ -55,9 +55,6 @@ sections:
   - description: "**[*Listening With Nate Lewis*](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)**
       for Dirt, 2020"
     image: "/uploads/1.jpg"
-  - description: "**[*White House Painter*](http://www.newartexaminer.net/white-house-painter/)**
-      for New Art Examiner, 2020"
-    image: "/uploads/Screen%20Shot%202022-04-20%20at%2010.55.50%20PM.jpg"
 - title: Radar
   calendarList: true
 - title: Art
