@@ -7,6 +7,9 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
+  - description: "**[*scènes de ménage*](https://www.screenslate.com/articles/scenes-de-menage)**
+      for Screen Slate,  2023"
+    image: "/uploads/MB_stillL.png"
   - description: "**[*Bill Viola at James Cohan*](https://www.screenslate.com/articles/bill-viola-james-cohan)**
       for Screen Slate,  2023"
     image: "/uploads/fd795193d946741c5c9e86ffd5861634.jpg"
