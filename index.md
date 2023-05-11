@@ -8,7 +8,7 @@ sections:
   condense_count: 8
   items:
   - description: "**[*Falling*](https://pioneerworks.org/broadcast/max-levin-post-pandemic-fainting-at-concerts)**
-      for Broadcast, 2023"
+      for Pioneer Works Broadcast, 2023"
     image: 
   - description: "**[*scènes de ménage*](https://www.screenslate.com/articles/scenes-de-menage)**
       for Screen Slate, 2023"
