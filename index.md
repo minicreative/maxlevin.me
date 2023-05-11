@@ -7,14 +7,17 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
+  - description: "**[*Falling*](https://pioneerworks.org/broadcast/max-levin-post-pandemic-fainting-at-concerts)**
+      for Broadcast, 2023"
+    image: 
   - description: "**[*scènes de ménage*](https://www.screenslate.com/articles/scenes-de-menage)**
-      for Screen Slate,  2023"
+      for Screen Slate, 2023"
     image: "/uploads/MB_stillL.png"
   - description: "**[*Bill Viola at James Cohan*](https://www.screenslate.com/articles/bill-viola-james-cohan)**
-      for Screen Slate,  2023"
+      for Screen Slate, 2023"
     image: "/uploads/fd795193d946741c5c9e86ffd5861634.jpg"
   - description: "**[*Shirin Neshat: The Fury*](https://www.screenslate.com/articles/shirin-neshat-fury)**
-      for Screen Slate,  2023"
+      for Screen Slate, 2023"
     image: "/uploads/Fury-Shirin-Nesat.jpg"
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
       for Screen Slate, 2023"
