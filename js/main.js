@@ -103,7 +103,6 @@ function setupCalendar() {
             }
             if (!onlyUpcoming) {
                 if (isPreview) html.append("<h2>Past</h2>")
-                html.append("<p>Events in bold contain audio and text materials from the event.</p>")
                 html.append(pastList)
                 if (isPreview) html.append("<p><a href='/past-events'>View all past events</a></p>")
             }
