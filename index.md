@@ -9,7 +9,7 @@ sections:
   items:
   - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
       for *BOMB* Magazine, 2023"
-    image: 
+    image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
   - description: "**[*Secondary*](https://www.screenslate.com/articles/secondary)**
       for Screen Slate, 2023"
     image: "/uploads/IMG_0351.jpeg"
