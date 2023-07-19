@@ -7,7 +7,10 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
-  - description: "**[*Matthew Barney’s Secondary*](https://www.screenslate.com/articles/secondary)**
+  - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
+      for *BOMB* Magazine, 2023"
+    image: 
+  - description: "**[*Secondary*](https://www.screenslate.com/articles/secondary)**
       for Screen Slate, 2023"
     image: "/uploads/IMG_0351.jpeg"
   - description: "**[*Falling*](https://pioneerworks.org/broadcast/max-levin-post-pandemic-fainting-at-concerts)**
