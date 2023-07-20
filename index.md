@@ -78,12 +78,8 @@ sections:
       2020"
     image: "/uploads/IMG_2300.jpg"
 - title: More
-  description: "Best of list for favorite first viewings of film and video performance
-    of 2022 for **[Screen Slate](https://www.screenslate.com/articles/best-movies-2022-first-viewings-discoveries-and-individual-ballots#levin)**.\n<br>A
-    **[playlist](https://open.spotify.com/playlist/5EZnx3u27kBMVS3pJ94UT3?si=46e9fe0e70b3411a)**
-    of favorite music I listened to in 2022\n<br>Some of my sound compositions can
-    be found on Bandcamp **[here](https://maxlevin.bandcamp.com)** and on Spotify
-    **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
+  description: "Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**
+    and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
     \n<br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
 layout: home
