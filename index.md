@@ -55,9 +55,6 @@ sections:
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
-  - description: "**[*New Mythology*](https://www.laurenpowellprojects.com/exhibitions/2022/newmythology)**
-      at Lauren Powell Projects, Los Angeles, 2022"
-    image: "/uploads/sublime.png"
   - description: "**[*Witches, Angels, and Thieves: I'm Thinking of Sampling Things*](https://maxlevin.me/galleries/stopgap.html)**
       for stop.gap, 2021"
     image: "/uploads/slip.jpg"
