@@ -7,6 +7,9 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
+  - description: "**[*Somewhere*](https://www.screenslate.com/articles/somewhere)**
+      for Screen Slate, 2023"
+    image: 
   - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
       for *BOMB* Magazine, 2023"
     image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
