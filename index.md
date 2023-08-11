@@ -9,7 +9,7 @@ sections:
   items:
   - description: "**[*Somewhere*](https://www.screenslate.com/articles/somewhere)**
       for Screen Slate, 2023"
-    image: 
+    image: "/uploads/Somewhere.jpg"
   - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
       for *BOMB* Magazine, 2023"
     image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
