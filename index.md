@@ -88,4 +88,4 @@ layout: home
 b. 1994 in Washington, D.C.\
 Lives in New York City\
 [max.levin@me.com](mailto:max.levin@me.com)\
-[@apocopation](https://www.instagram.com/apocopation/)
+[@chrestomathy](https://www.instagram.com/chrestomathy/)
