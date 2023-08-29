@@ -17,7 +17,7 @@ function setupCalendar() {
         let upcomingItems = []
         let pastItems = []
 
-        $.get(`https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${PROTECTED_API_KEY}&singleEvents=true&orderBy=startTime`, (data) => {
+        $.get(`https://www.googleapis.com/calendar/v3/calendars/${CALENDAR_ID}/events?key=${PROTECTED_API_KEY}&singleEvents=true&orderBy=startTime&maxResults=1000`, (data) => {
             
             let now = Date.now()
             for (let item of data.items) {
