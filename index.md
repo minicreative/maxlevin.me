@@ -7,6 +7,9 @@ sections:
   condense_button: View all writing
   condense_count: 8
   items:
+  - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**
+      for Screen Slate, 2023"
+    image: 
   - description: '**[*Simon Liu, "Let''s Talk"*](https://www.screenslate.com/articles/simon-liu-lets-talk)**
       for Screen Slate, 2023'
     image: "/uploads/Lets-Talk-Simon-Liu.jpg"
