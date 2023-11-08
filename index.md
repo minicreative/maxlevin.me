@@ -10,7 +10,7 @@ sections:
   - description: "**[*We Are All Floating In The Same River: Short Films by Apichatpong
       Weerasethakul*](https://millenniumfilmjournal.com/product/mfj-78-now-and-then/)**
       for Millenium Film Journal, 2023"
-    image: "/uploads/1200%20Morakot_0.jpeg"
+    image: "/uploads/1200%20Morakot_0.jpg"
   - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**
       for Screen Slate, 2023"
     image: "/uploads/sexy-beast.jpg"
