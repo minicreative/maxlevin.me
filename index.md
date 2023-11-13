@@ -9,7 +9,7 @@ sections:
   items:
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
-    image: 
+    image: "/uploads/Spaghetti-Aza_1976.jpg"
   - description: "**[*We Are All Floating In The Same River: Short Films by Apichatpong
       Weerasethakul*](uploads/Millennium%20Film%20Journal%2078%20copyML.pdf)** for
       Millenium Film Journal, 2023"
