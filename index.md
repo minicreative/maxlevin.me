@@ -101,4 +101,4 @@ layout: home
 b. 1994 in Washington, D.C.\
 Lives in New York City\
 [max.levin@me.com](mailto:max.levin@me.com)\
-[@chrestomathy](https://www.instagram.com/chrestomathy/)
+[@pocopation](https://www.instagram.com/pocopation/)
