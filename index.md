@@ -4,82 +4,105 @@ permalink: "/"
 position: 0
 sections:
 - title: Writing
-  condense_button: View all writing
-  condense_count: 8
+  priority_button: View all writing
   items:
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
     image: "/uploads/Spaghetti-Aza_1976.jpg"
+    is_priority: false
   - description: "**[*We Are All Floating In The Same River: Short Films by Apichatpong
       Weerasethakul*](uploads/Millennium%20Film%20Journal%2078%20copyML.pdf)** for
       Millenium Film Journal, 2023"
     image: "/uploads/1200%20Morakot_0.jpg"
+    is_priority: true
   - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**
       for Screen Slate, 2023"
     image: "/uploads/sexy-beast.jpg"
+    is_priority: false
   - description: '**[*Simon Liu, "Let''s Talk"*](https://www.screenslate.com/articles/simon-liu-lets-talk)**
       for Screen Slate, 2023'
     image: "/uploads/Lets-Talk-Simon-Liu.jpg"
+    is_priority: true
   - description: "**[*Somewhere*](https://www.screenslate.com/articles/somewhere)**
       for Screen Slate, 2023"
     image: "/uploads/Somewhere.jpg"
+    is_priority: false
   - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
       for *BOMB* Magazine, 2023"
     image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
+    is_priority: true
   - description: "**[*Secondary*](https://www.screenslate.com/articles/secondary)**
       for Screen Slate, 2023"
     image: "/uploads/IMG_0351.jpeg"
+    is_priority: false
   - description: "**[*Falling*](https://pioneerworks.org/broadcast/max-levin-post-pandemic-fainting-at-concerts)**
       for Pioneer Works Broadcast, 2023"
     image: "/uploads/a7e7fcf48a1ffe8caf552275f23ba9a64ffe0f86-2308x3000.jpeg"
+    is_priority: true
   - description: "**[*scènes de ménage*](https://www.screenslate.com/articles/scenes-de-menage)**
       for Screen Slate, 2023"
     image: "/uploads/MB_stillL.png"
+    is_priority: false
   - description: "**[*Bill Viola at James Cohan*](https://www.screenslate.com/articles/bill-viola-james-cohan)**
       for Screen Slate, 2023 "
     image: "/uploads/fd795193d946741c5c9e86ffd5861634.jpg"
+    is_priority: false
   - description: "**[*Shirin Neshat: The Fury*](https://www.screenslate.com/articles/shirin-neshat-fury)**
       for Screen Slate, 2023"
     image: "/uploads/Fury-Shirin-Nesat.jpg"
+    is_priority: false
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
       for Screen Slate, 2023"
     image: "/uploads/Hopinka.jpg"
+    is_priority: true
   - description: "**[*Clean Slate: On Ricky D'Ambrose's The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**
       for LA Review of Books, 2023"
     image: "/uploads/forsite.jpg"
+    is_priority: true
   - description: "**[*Slayed: LGBTQ+ Horror Shorts*](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**
       for Screen Slate, 2022"
     image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
+    is_priority: false
   - description: "**[*Arthur Jafa’s The White Album*](https://www.screenslate.com/articles/arthur-jafas-white-album)**
       for Screen Slate, 2022"
     image: "/uploads/1458304C-90F3-4C3A-AC02-5BCED3A0C62E.jpeg"
+    is_priority: false
   - description: "**[*Truth Flickers*](https://www.x-traonline.org/article/truth-flickers)**
       for X-TRA, 2022"
     image: "/uploads/Screen%20Shot%202022-07-12%20at%207.07.56%20PM.jpg"
+    is_priority: true
   - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**
       for Screen Slate, 2022"
     image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
+    is_priority: false
   - description: "**[*Jerry Hunt: Transmissions from the Pleroma*](http://screenslate.com/articles/jerry-hunt-transmissions-pleroma)**
       for Screen Slate, 2022"
     image: "/uploads/Jerry-Hunt.jpg"
+    is_priority: false
   - description: "**[*Jonas Mekas: The Camera Was Always Running*](http://www.screenslate.com/articles/jonas-mekas-camera-was-always-running)**
       for Screen Slate, 2022"
     image: "/uploads/Jonas-Mekas.jpg"
+    is_priority: false
   - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
       for Screen Slate, 2022"
     image: "/uploads/Screen%20Shot%202022-05-02%20at%208.02.58%20PM.png"
+    is_priority: true
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
+    is_priority: false
   - description: "**[*Witches, Angels, and Thieves: I'm Thinking of Sampling Things*](https://maxlevin.me/galleries/stopgap.html)**
       for stop.gap, 2021"
     image: "/uploads/slip.jpg"
+    is_priority: false
   - description: "**[*Seven Paintings*](https://56henry.nyc/exhibitions/seven-paintings)**
       at 56 Henry, NYC, 2020"
     image: "/uploads/tinkler.jpg"
+    is_priority: false
   - description: "**[*Listening With Nate Lewis*](https://www.dirtdmv.com/writing/2020/5/31/listening-with-nate-lewis)**
       for Dirt, 2020"
     image: "/uploads/1.jpg"
+    is_priority: false
 - title: Radar
   calendarList: true
 - title: Art

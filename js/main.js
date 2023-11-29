@@ -118,15 +118,14 @@ function setupCalendar() {
 }
 
 function condenseLists() {
-    $("ul.condense").each(function() {
-        let index = 0
-        let count = parseInt($(this).find("#condenseCount").text())
-        let button = $(this).find("#expandButton")
+    $("ul.prioritize").each(function() {
         let list = $(this).find("li")
         list.each(function() {
-            index++;
-            if (index > count) $(this).hide()
+            let item = $(this)
+            if (!item.hasClass("priority")) item.hide()
         })
+
+        let button = $(this).find("#expandButton")
         button.on("click", function() {
             list.each(function() {
                 $(this).show()
