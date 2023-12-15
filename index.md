@@ -107,12 +107,14 @@ sections:
   calendarList: true
 - title: Art
   items:
-  - description: The music video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**
-    image: 
+  - description: The music video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
+      2022
+    image: "/uploads/Screen%20Shot%202023-12-15%20at%202.20.02%20PM.png"
   - description: "*Automatic Fields* is an eleven minute sound installation I presented
       at Andrew Edlin Gallery, NYC, 2021"
     image: "/uploads/IMG_2932.jpg"
-  - description: I directed and appear in the music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**
+  - description: I co-directed and appear in the music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**,
+      2021
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.02.38%20PM.png"
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
