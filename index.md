@@ -110,6 +110,8 @@ sections:
   - description: "*Automatic Fields* is an eleven minute sound installation I presented
       at Andrew Edlin Gallery, NYC, 2021"
     image: "/uploads/IMG_2932.jpg"
+  - description: I directed and appear in the music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**
+    image: 
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
     image: "/uploads/IMG_2300.jpg"
