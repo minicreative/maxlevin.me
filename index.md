@@ -111,7 +111,7 @@ sections:
       at Andrew Edlin Gallery, NYC, 2021"
     image: "/uploads/IMG_2932.jpg"
   - description: I directed and appear in the music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**
-    image: 
+    image: "/uploads/Screen%20Shot%202023-12-15%20at%202.02.38%20PM.png"
   - description: "*Unbroken Chain* is a group exhibition I curated at 268 Space, NYC,
       2020"
     image: "/uploads/IMG_2300.jpg"
