@@ -107,6 +107,8 @@ sections:
   calendarList: true
 - title: Art
   items:
+  - description: I directed and appear in the music video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWh9P5sJi/view?usp=2drivesdk)**
+    image: 
   - description: "*Automatic Fields* is an eleven minute sound installation I presented
       at Andrew Edlin Gallery, NYC, 2021"
     image: "/uploads/IMG_2932.jpg"
