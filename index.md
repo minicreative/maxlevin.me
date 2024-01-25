@@ -6,6 +6,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
     image: "/uploads/Spaghetti-Aza_1976.jpg"
