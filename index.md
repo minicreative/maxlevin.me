@@ -8,7 +8,7 @@ sections:
   items:
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_2752.jpeg"
     is_priority: 
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
