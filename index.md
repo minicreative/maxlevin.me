@@ -6,6 +6,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
