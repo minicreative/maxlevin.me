@@ -35,7 +35,7 @@ sections:
       for Screen Slate, 2023"
     image: "/uploads/Somewhere.jpg"
     is_priority: false
-  - description: "**[*Frances Stark Interview*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
+  - description: "**[*Frances Stark Interviewed*](https://bombmagazine.org/articles/frances-stark-interviewed/)**
       for *BOMB* Magazine, 2023"
     image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
     is_priority: true
