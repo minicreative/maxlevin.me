@@ -9,7 +9,7 @@ sections:
   - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
       for Screen Slate, 2024"
     image: 
-    is_priority: 
+    is_priority: true
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
@@ -94,7 +94,7 @@ sections:
   - description: "**[*Riotsville, USA*](http://www.screenslate.com/articles/riotsville-usa)**
       for Screen Slate, 2022"
     image: "/uploads/Screen%20Shot%202022-05-02%20at%208.02.58%20PM.png"
-    is_priority: true
+    is_priority: false
   - description: "**[*Large Paintings*](https://56henry.nyc/exhibitions/large-paintings)**
       at 56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
