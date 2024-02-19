@@ -26,7 +26,7 @@ sections:
   - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**
       for Screen Slate, 2023"
     image: "/uploads/sexy-beast.jpg"
-    is_priority: false
+    is_priority: true
   - description: '**[*Simon Liu, "Let''s Talk"*](https://www.screenslate.com/articles/simon-liu-lets-talk)**
       for Screen Slate, 2023'
     image: "/uploads/Lets-Talk-Simon-Liu.jpg"
@@ -62,7 +62,7 @@ sections:
   - description: "**[*I’ll Remember You as You Were, not as What You’ll Become*](https://www.screenslate.com/articles/ill-remember-you-you-were-not-what-youll-become)**
       for Screen Slate, 2023"
     image: "/uploads/Hopinka.jpg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Clean Slate: On Ricky D'Ambrose's The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**
       for LA Review of Books, 2023"
     image: "/uploads/forsite.jpg"
