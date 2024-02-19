@@ -13,7 +13,7 @@ sections:
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
-    is_priority: 
+    is_priority: true
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
     image: "/uploads/Spaghetti-Aza_1976.jpg"
@@ -66,7 +66,7 @@ sections:
   - description: "**[*Clean Slate: On Ricky D'Ambrose's The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**
       for LA Review of Books, 2023"
     image: "/uploads/forsite.jpg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Slayed: LGBTQ+ Horror Shorts*](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**
       for Screen Slate, 2022"
     image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
