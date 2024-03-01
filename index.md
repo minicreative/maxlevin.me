@@ -6,6 +6,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_3652.jpeg"
