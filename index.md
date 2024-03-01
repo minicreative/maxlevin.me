@@ -8,7 +8,7 @@ sections:
   items:
   - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_4095.jpeg"
     is_priority: 
   - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
       for Screen Slate, 2024"
