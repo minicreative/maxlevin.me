@@ -119,13 +119,13 @@ sections:
   calendarList: true
 - title: Videos
   items:
-  - description: I directed the music video for Ka Baird's song **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
+  - description: Music video for Ka Baird's song **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
       2024
     image: 
-  - description: I directed and appear in the music video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
+  - description: Music video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
       2022
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.20.02%20PM.png"
-  - description: I co-directed and appear in the music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**,
+  - description: Music video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**,
       2021
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.02.38%20PM.png"
 - title: Music
