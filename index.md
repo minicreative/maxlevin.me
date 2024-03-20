@@ -8,7 +8,7 @@ sections:
   items:
   - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_4855.jpeg"
     is_priority: true
   - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
       for Screen Slate, 2024"
