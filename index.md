@@ -6,6 +6,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4095.jpeg"
