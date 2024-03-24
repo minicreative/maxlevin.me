@@ -123,14 +123,13 @@ sections:
   calendarList: true
 - title: Videos
   items:
-  - description: Directed and shot Ka Baird's **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
+  - description: Ka Baird's **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
       2024
     image: 
-  - description: Appear in the video for my song **[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
-      2022
+  - description: "**[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
+      2022"
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.20.02%20PM.png"
-  - description: Directed and appeared in the video for my song **[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**,
-      2021
+  - description: "**[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**, 2021"
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.02.38%20PM.png"
 - title: Music
   description: "*Automatic Fields* is an eleven minute sound installation I presented
