@@ -30,7 +30,7 @@ sections:
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
     image: "/uploads/Spaghetti-Aza_1976.jpg"
@@ -43,7 +43,7 @@ sections:
   - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**
       for Screen Slate, 2023"
     image: "/uploads/sexy-beast.jpg"
-    is_priority: true
+    is_priority: false
   - description: '**[*Simon Liu, "Let''s Talk"*](https://www.screenslate.com/articles/simon-liu-lets-talk)**
       for Screen Slate, 2023'
     image: "/uploads/Lets-Talk-Simon-Liu.jpg"
