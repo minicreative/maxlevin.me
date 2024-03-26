@@ -128,8 +128,6 @@ sections:
       for Dirt, 2020"
     image: "/uploads/1.jpg"
     is_priority: false
-- title: Radar
-  calendarList: true
 - title: Videos
   items:
   - description: Ka Baird's **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
@@ -140,6 +138,8 @@ sections:
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.20.02%20PM.png"
   - description: "**[Hoot Suite](https://vimeo.com/531584826/2d654d40e3)**, 2021"
     image: "/uploads/Screen%20Shot%202023-12-15%20at%202.02.38%20PM.png"
+- title: Radar
+  calendarList: true
 - title: Music
   description: "*Automatic Fields* is an eleven minute sound installation I presented
     at Andrew Edlin Gallery, NYC, 2021\nSome of my sound compositions can be found
