@@ -1,6 +1,7 @@
 $(document).ready(() => {
     setupCalendar()
     condenseLists()
+    setupMobileAccents()
 })
 
 const CALENDAR_ID = "ipf64s1a1d693tq5h6ceu37dns@group.calendar.google.com"
@@ -85,8 +86,8 @@ function setupCalendar() {
 
             // Trim arrays if preview
             if (isPreview) {
-                pastItems = pastItems.slice(0, 5)
-                upcomingItems = upcomingItems.slice(0, 5)
+                pastItems = pastItems.slice(0, 3)
+                upcomingItems = upcomingItems.slice(0, 3)
             }
 
             // Setup and insert HTML
@@ -133,4 +134,13 @@ function condenseLists() {
             $(this).hide()
         })
     })
+}
+
+function setupMobileAccents() {
+    let mobileAccentURLs = [];
+    $("#mobileAccents").find("img").each(function() {
+        mobileAccentURLs.push($(this).attr("src"))
+    })
+    let rand = Math.floor(Math.random() * Math.floor(mobileAccentURLs.length));
+    $("#mobileAccent").css("background-image", `url('${mobileAccentURLs[rand]}')`)
 }

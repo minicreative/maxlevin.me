@@ -1,6 +1,13 @@
 {% include header.html %}
 
+    <div id="mobileAccents">
+        {% for url in page.mobileAccents %}
+        <img src="{{ url }}" />
+        {% endfor %}
+    </div>
+
     <div class="container home">
+        <div id="mobileAccent"></div>
         <h1>{{ site.title }}</h1>
         {{ page.content | markdownify }}
 

@@ -36,7 +36,7 @@ h1 {font-size:28px;}
 h2 {font-size:20px;}
 
 .container {
-    padding:50px; 
+    position:relative; padding:50px; 
     line-height:1.5;
     a {border-bottom:1px solid #ccc;}
     @include breakpoint(m) {
@@ -67,6 +67,11 @@ h1, h2 {
 
     #condenseCount {display:none;}
     #expandButton {display:inline-block; margin-top:12px; line-height:1; border-bottom: 1px solid #ccc; cursor:pointer;}
+}
+
+#mobileAccents {display:none;}
+#mobileAccent {display:none; @include breakpoint(s) {display:block;}
+    position:absolute; top:30px; right:30px; width:60px; height:60px; background-size:cover;
 }
 
 #calendarList {

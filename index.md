@@ -2,6 +2,15 @@
 title: Home
 permalink: "/"
 position: 0
+mobileAccents:
+- "/uploads/square1.jpeg"
+- "/uploads/square2.jpeg"
+- "/uploads/square3.jpeg"
+- "/uploads/square4.jpeg"
+- "/uploads/square5.jpeg"
+- "/uploads/square6.jpeg"
+- "/uploads/square7.jpeg"
+- "/uploads/square8.jpeg"
 sections:
 - title: Writing
   priority_button: View all writing
