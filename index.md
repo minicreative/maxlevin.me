@@ -130,7 +130,7 @@ sections:
     is_priority: false
 - title: Videos
   items:
-  - description: Ka Baird's **[Gate VI](https://drive.google.com/file/d/1Ok8KegrVK3qT0cL3sIk86GxyLoh4Ncy9/view?usp=drivesdk)**,
+  - description: Ka Baird's **[Gate VI](https://youtu.be/_-hL8l91R6c?si=UyyfVLUFbqh9phFx)**,
       2024
     image: 
   - description: "**[Transmitter](https://drive.google.com/file/d/1iJig1f5p7hPt0b1Ml7_uzMToWH9P5sJi/view?usp=drivesdk)**,
