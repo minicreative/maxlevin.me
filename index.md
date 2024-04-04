@@ -136,7 +136,7 @@ sections:
   items:
   - description: Ka Baird's **[Gate VI](https://youtu.be/_-hL8l91R6c?si=UyyfVLUFbqh9phFx)**,
       2024
-    image: 
+    image: "/uploads/Screen%20Shot%202024-04-04%20at%204.18.18%20PM.png"
   - description: Aaron Roche’s **[Simone In The Moon (Live At Figure 8)](https://youtu.be/_83euDlNVJg?si=yfb11M07G9v_VPaH)**,
       2023
     image: 
