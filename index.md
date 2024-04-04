@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_5408.jpeg"
     is_priority: true
   - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
