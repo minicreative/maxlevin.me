@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: true
   - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4855.jpeg"
@@ -47,7 +51,7 @@ sections:
   - description: '**[*Simon Liu, "Let''s Talk"*](https://www.screenslate.com/articles/simon-liu-lets-talk)**
       for Screen Slate, 2023'
     image: "/uploads/Lets-Talk-Simon-Liu.jpg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Somewhere*](https://www.screenslate.com/articles/somewhere)**
       for Screen Slate, 2023"
     image: "/uploads/Somewhere.jpg"
