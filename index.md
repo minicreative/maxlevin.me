@@ -18,7 +18,7 @@ sections:
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: 
-    is_priority: 
+    is_priority: true
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_5408.jpeg"
@@ -103,7 +103,7 @@ sections:
   - description: "**[*Truth Flickers*](https://www.x-traonline.org/article/truth-flickers)**
       for X-TRA, 2022"
     image: "/uploads/Screen%20Shot%202022-07-12%20at%207.07.56%20PM.jpg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**
       for Screen Slate, 2022"
     image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
