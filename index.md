@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[* Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + ***** *](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_5408.jpeg"
