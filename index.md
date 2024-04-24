@@ -15,7 +15,7 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[* Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + ***** *](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
+  - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: 
     is_priority: 
