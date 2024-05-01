@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: true
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: 
@@ -22,7 +26,7 @@ sections:
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_5408.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4855.jpeg"
