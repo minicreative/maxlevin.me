@@ -21,7 +21,7 @@ sections:
     is_priority: true
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/Arthur-Jafa.jpeg"
     is_priority: true
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
