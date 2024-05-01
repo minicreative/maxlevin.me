@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/Eiko-Ishibashi.jpeg"
     is_priority: true
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
