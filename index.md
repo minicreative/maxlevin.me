@@ -18,7 +18,7 @@ sections:
   - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
     image: 
-    is_priority: 
+    is_priority: true
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
@@ -26,7 +26,7 @@ sections:
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_5408.jpeg"
