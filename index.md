@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
