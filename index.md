@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_7166.jpeg"
     is_priority: true
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
