@@ -15,7 +15,7 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[*The Madness of Crowds”*](https://www.screenslate.com/articles/madness-crowds)**
+  - description: "**[*The Madness of Crowds*](https://www.screenslate.com/articles/madness-crowds)**
       for Screen Slate, 2024"
     image: 
     is_priority: 
