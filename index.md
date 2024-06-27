@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*The Madness of Crowds”*](https://www.screenslate.com/articles/madness-crowds)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_7166.jpeg"
