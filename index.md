@@ -165,7 +165,7 @@ sections:
   calendarList: true
 - title: Music
   description: "*Automatic Fields* is an eleven minute sound installation I presented
-    at Andrew Edlin Gallery, NYC, 2021\nSome of my sound compositions can be found
+    at Andrew Edlin Gallery, NYC, 2021<br>\nSome of my sound compositions can be found
     on Bandcamp **[here](https://maxlevin.bandcamp.com)** and on Spotify **[here](https://open.spotify.com/artist/2HWVsbMc3Zv65tB6pdIAVd?si=IF-qOJwySlq2375-cb69dQ)**.
     \n<br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
