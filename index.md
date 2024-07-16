@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
+      for e-flux Criticism, 2024"
+    image: 
+    is_priority: true
   - description: "**[*The Madness of Crowds*](https://www.screenslate.com/articles/madness-crowds)**
       for Screen Slate, 2024"
     image: 
@@ -38,7 +42,7 @@ sections:
   - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4855.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4095.jpeg"
