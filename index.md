@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
       for e-flux Criticism, 2024"
-    image: "/uploads/IMG_1321.jpeg"
+    image: "/uploads/AkermanSmall.jpeg"
     is_priority: true
   - description: "**[*The Madness of Crowds*](https://www.screenslate.com/articles/madness-crowds)**
       for Screen Slate, 2024"
