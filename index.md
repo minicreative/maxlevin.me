@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Approaching Understanding: On Gregory Markopoulos’s Temenos*](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
       for MUBI Notebook, 2024"
-    image: 
+    image: "/uploads/IMG_1591.jpeg"
     is_priority: true
   - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
       for e-flux Criticism, 2024"
