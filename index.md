@@ -18,7 +18,7 @@ sections:
   - description: "**[*Approaching Understanding: On Gregory Markopoulos’s Temenos*](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
       for MUBI Notebook, 2024"
     image: 
-    is_priority: 
+    is_priority: true
   - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
       for e-flux Criticism, 2024"
     image: "/uploads/AkermanSmall.jpeg"
@@ -30,7 +30,7 @@ sections:
   - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_7166.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
