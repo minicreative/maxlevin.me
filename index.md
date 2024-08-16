@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Approaching Understanding: On Gregory Markopoulos’s Temenos*](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
+      for MUBI Notebook, 2024"
+    image: 
+    is_priority: 
   - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
       for e-flux Criticism, 2024"
     image: "/uploads/AkermanSmall.jpeg"
