@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Christian Marclay: Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/IMG_0997.jpeg"
     is_priority: true
   - description: "**[*A Means of Abstraction: A Conversation With Robert Beavers*](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
       for Screen Slate, 2024"
