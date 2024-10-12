@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Christian Marclay: Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
+      for Screen Slate, 2024"
+    image: 
+    is_priority: true
   - description: "**[*A Means of Abstraction: A Conversation With Robert Beavers*](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
       for Screen Slate, 2024"
     image: 
@@ -38,7 +42,7 @@ sections:
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
