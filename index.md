@@ -37,7 +37,7 @@ sections:
     is_priority: true
   - description: "**[*The Madness of Crowds*](https://www.screenslate.com/articles/madness-crowds)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/Untitled%203crowds.jpg"
     is_priority: 
   - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
