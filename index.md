@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[*Big Question: Enzo Camacho and Ami Lien*](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
       for Art21, 2025"
-    image: 
+    image: "/uploads/AmiEnzo.jpg"
     is_priority: 
   - description: "**[*Christian Marclay: Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
       for Screen Slate, 2024"
