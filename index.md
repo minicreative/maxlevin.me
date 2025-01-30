@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Big Question: Enzo Camacho and Ami Lien*](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
+      for Art21, 2025"
+    image: 
+    is_priority: 
   - description: "**[*Christian Marclay: Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_0997.jpeg"
