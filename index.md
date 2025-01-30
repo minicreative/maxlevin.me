@@ -25,7 +25,7 @@ sections:
     is_priority: false
   - description: "**[*A Means of Abstraction: A Conversation With Robert Beavers*](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
       for Screen Slate, 2024"
-    image: 
+    image: "/uploads/Beavers.jpg"
     is_priority: 
   - description: "**[*Approaching Understanding: On Gregory Markopoulos’s Temenos*](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
       for MUBI Notebook, 2024"
