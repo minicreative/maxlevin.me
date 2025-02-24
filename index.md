@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*Yair Oelbaum Interviewed*](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
+      for BOMB, 2025"
+    image: 
+    is_priority: 
   - description: "**[*Big Question: Enzo Camacho and Ami Lien*](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
       for Art21, 2025"
     image: "/uploads/AmiEnzo.jpg"
