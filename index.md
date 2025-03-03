@@ -176,14 +176,14 @@ sections:
   items:
   - description: Reliquary Grammar, 2025
     image: "/uploads/Screenshot%202025-03-03%20at%204.40.12%20PM.jpg"
-  - description: Minivan's **[Here I Am](https://youtu.be/EOz2dBQDTuI?si=OCM42ZyhP854Cdam)**,
-      2024
+  - description: "**[Here I Am](https://youtu.be/EOz2dBQDTuI?si=OCM42ZyhP854Cdam)**,
+      2024"
     image: "/uploads/Screenshot%202025-03-03%20at%204.37.39%20PM.jpg"
-  - description: Ka Baird's **[Gate VI](https://youtu.be/_-hL8l91R6c?si=UyyfVLUFbqh9phFx)**,
-      2024
+  - description: "**[Gate VI](https://youtu.be/_-hL8l91R6c?si=UyyfVLUFbqh9phFx)**,
+      2024"
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.18.18%20PM.png"
-  - description: Aaron Roche’s **[Simone In The Moon (Live At Figure 8)](https://youtu.be/_83euDlNVJg?si=yfb11M07G9v_VPaH)**,
-      2023
+  - description: "**[Simone In The Moon (Live At Figure 8)](https://youtu.be/_83euDlNVJg?si=yfb11M07G9v_VPaH)**,
+      2023"
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.21.52%20PM.png"
 - title: Radar
   calendarList: true
