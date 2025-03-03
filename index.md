@@ -175,7 +175,7 @@ sections:
 - title: Videos
   items:
   - description: Reliquary Grammar, 2025
-    image: 
+    image: "/uploads/Screenshot%202025-03-03%20at%204.40.12%20PM.jpg"
   - description: Minivan's **[Here I Am](https://youtu.be/EOz2dBQDTuI?si=OCM42ZyhP854Cdam)**,
       2024
     image: "/uploads/Screenshot%202025-03-03%20at%204.37.39%20PM.jpg"
