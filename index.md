@@ -70,7 +70,7 @@ sections:
   - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_3652.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
