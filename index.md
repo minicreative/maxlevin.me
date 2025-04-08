@@ -18,7 +18,7 @@ sections:
   - description: "**[*Yair Oelbaum Interviewed*](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
       for BOMB Magazine, 2025"
     image: "/uploads/IMG_7466.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Big Question: Enzo Camacho and Ami Lien*](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
       for Art21, 2025"
     image: "/uploads/AmiEnzo.jpg"
@@ -50,7 +50,7 @@ sections:
   - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
-    is_priority: false
+    is_priority: true
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**
       for Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
