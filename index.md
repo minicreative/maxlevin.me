@@ -15,7 +15,7 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[Hanne Darboven & Este Lewis, “Mickey”*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
+  - description: "**[Hanne Darboven & Este Lewis, “Mickey”](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
       for Scheusal, 2025"
     image: 
     is_priority: 
