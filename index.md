@@ -15,8 +15,8 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[Hanne Darboven & Este Lewis, “Mickey”](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
-      for Scheusal, 2025"
+  - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
+      at Scheusal, 2025"
     image: "/uploads/IMG_0329.jpeg"
     is_priority: 
   - description: "**[*Yair Oelbaum Interviewed*](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
