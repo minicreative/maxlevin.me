@@ -19,27 +19,27 @@ sections:
       at Scheusal, 2025"
     image: "/uploads/IMG_0329.jpeg"
     is_priority: 
-  - description: "**[*Yair Oelbaum Interviewed*](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
+  - description: "**[Yair Oelbaum Interviewed](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
       for BOMB Magazine, 2025"
     image: "/uploads/IMG_7466.jpeg"
     is_priority: false
-  - description: "**[*Big Question: Enzo Camacho and Ami Lien*](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
+  - description: "**[Big Question: Enzo Camacho and Ami Lien](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
       for Art21, 2025"
     image: "/uploads/AmiEnzo.jpg"
     is_priority: 
-  - description: "**[*Christian Marclay: Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
+  - description: "**[Christian Marclay: *Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_0997.jpeg"
     is_priority: false
-  - description: "**[*A Means of Abstraction: A Conversation With Robert Beavers*](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
+  - description: "**[A Means of Abstraction: A Conversation With Robert Beavers](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
       for Screen Slate, 2024"
     image: "/uploads/Beavers.jpg"
     is_priority: 
-  - description: "**[*Approaching Understanding: On Gregory Markopoulos’s Temenos*](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
+  - description: "**[Approaching Understanding: On Gregory Markopoulos’s Temenos](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
       for MUBI Notebook, 2024"
     image: "/uploads/IMG_1591.jpeg"
     is_priority: true
-  - description: "**[*Chantal Akerman’s “Travelling”*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
+  - description: "**[Chantal Akerman’s *Travelling*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
       for e-flux Criticism, 2024"
     image: "/uploads/AkermanSmall.jpeg"
     is_priority: true
@@ -47,11 +47,11 @@ sections:
       for Screen Slate, 2024"
     image: "/uploads/Untitled%203crowds.jpg"
     is_priority: 
-  - description: "**[*Tiffany Sia “Technical Difficulties”*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
+  - description: "**[Tiffany Sia: *Technical Difficulties*](https://www.screenslate.com/articles/tiffany-sia-technical-difficulties)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_7166.jpeg"
     is_priority: false
-  - description: "**[*Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi*](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
+  - description: "**[Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**
       for Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
     is_priority: true
@@ -59,27 +59,27 @@ sections:
       for Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
     is_priority: false
-  - description: "**[*Eternally Yours: An Interview with Lynn Hershman Leeson*](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
+  - description: "**[Eternally Yours: An Interview with Lynn Hershman Leeson](https://www.screenslate.com/articles/eternally-yours-interview-lynn-hershman-leeson)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_5408.jpeg"
     is_priority: false
-  - description: "**[*Whitney Biennial 2024: Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
+  - description: "**[Whitney Biennial 2024: *Even Better Than the Real Thing*](https://www.screenslate.com/articles/whitney-biennial-2024-even-better-real-thing)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4855.jpeg"
     is_priority: false
-  - description: "**[*João Maria Gusmão: Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
+  - description: "**[João Maria Gusmão: *Animal Farm*](https://www.screenslate.com/articles/joao-maria-gusmao-animal-farm)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_4095.jpeg"
     is_priority: 
-  - description: "**[*Dara Birnbaum “Four Works: Accountability”*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
+  - description: "**[Dara Birnbaum: *Four Works: Accountability*](https://www.screenslate.com/articles/dara-birnbaum-four-works-accountability)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_3652.jpeg"
     is_priority: false
-  - description: "**[*Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview*](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
+  - description: "**[Squeezing Words for Every Bit of Juice: Nicholas Elliott Interview](https://www.screenslate.com/articles/squeezing-words-every-bit-juice-nicholas-elliott-serge-daney)**
       for Screen Slate, 2024"
     image: "/uploads/IMG_2752.jpeg"
     is_priority: false
-  - description: "**[*Ken Jacobs: Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
+  - description: "**[Ken Jacobs: *Up The Illusion*](https://www.screenslate.com/articles/ken-jacobs-illusion)**
       for Screen Slate, 2023"
     image: "/uploads/Spaghetti-Aza_1976.jpg"
     is_priority: false
