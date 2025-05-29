@@ -178,8 +178,7 @@ sections:
     is_priority: false
 - title: Videos
   items:
-  - description: "**[Reliquary Grammar](https://www.eventcreate.com/e/reliquarygrammar)**,
-      2025"
+  - description: "**Reliquary Grammar**, 2025"
     image: "/uploads/Screenshot%202025-03-03%20at%204.40.12%20PM.jpg"
   - description: "**[Here I Am](https://youtu.be/EOz2dBQDTuI?si=OCM42ZyhP854Cdam)**,
       2024"
