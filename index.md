@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[Alanis Obomsawin interview](https://art21.org/read/in-the-studio-alanis-obomsawin/)**
+      for Art21, 2025"
+    image: 
+    is_priority: 
   - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**
       for Screen Slate, 2025"
     image: 
