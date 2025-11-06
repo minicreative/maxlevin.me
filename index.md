@@ -25,7 +25,7 @@ sections:
     is_priority: 
   - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**
       for Screen Slate, 2025"
-    image: 
+    image: "/uploads/SS_AO.png"
     is_priority: false
   - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
       at Scheusal, 2025"
