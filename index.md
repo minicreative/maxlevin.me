@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[*On Joyce Wieland*](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**
+      for e-flux Criticism, 2025"
+    image: 
+    is_priority: 
   - description: "**[Interview: *Alanis Obomsawin Tells A Different Story*](https://art21.org/read/in-the-studio-alanis-obomsawin/)**
       for Art21, 2025"
     image: 
