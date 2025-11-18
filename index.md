@@ -123,7 +123,7 @@ sections:
   - description: "**[Falling](https://pioneerworks.org/broadcast/max-levin-post-pandemic-fainting-at-concerts)**
       for Pioneer Works Broadcast, 2023"
     image: "/uploads/a7e7fcf48a1ffe8caf552275f23ba9a64ffe0f86-2308x3000.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[*scènes de ménage*](https://www.screenslate.com/articles/scenes-de-menage)**
       for Screen Slate, 2023"
     image: "/uploads/MB_stillL.png"
