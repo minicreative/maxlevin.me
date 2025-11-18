@@ -66,7 +66,7 @@ sections:
   - description: "**[Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**,
       Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
-    is_priority: false
+    is_priority: true
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**,
       Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
@@ -159,7 +159,7 @@ sections:
   - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**,
       Screen Slate, 2022"
     image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[Jerry Hunt: *Transmissions from the Pleroma*](http://screenslate.com/articles/jerry-hunt-transmissions-pleroma)**,
       Screen Slate, 2022"
     image: "/uploads/Jerry-Hunt.jpg"
@@ -205,9 +205,11 @@ sections:
   description: "*Abscissa* is an intermedia performance series I organized at the
     Emily Harvey Foundation, featuring Yoshiko Chuma, Samuel R. Delany, Carl Elsaesser,
     Shelley Hirsch, Lucy Ives, Liz Pelly, Aaron Roche,  Liara Roux, Courtney Stephens,
-    and many more, NYC 2024-2025<br><br>\n*Automatic Fields* is an eleven minute sound
-    installation I presented at Andrew Edlin Gallery, NYC, 2021<br>\nSome of my sound
-    compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
+    and many more, NYC 2024-2025<br><br>\nIn June 2025, I curated a film and music
+    event at the Emily Harvey Foundation, which included a rare performance by myself
+    and three others of Alvin Lucier’s “Theme”<br><br> \n*Automatic Fields* is an
+    eleven minute sound installation I presented at Andrew Edlin Gallery, NYC, 2021<br><br>\nSome
+    of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
     \n<br><br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
 - title: Radar
