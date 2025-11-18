@@ -159,7 +159,7 @@ sections:
   - description: "**[*Tongues Untied*](https://www.screenslate.com/articles/tongues-untied)**,
       Screen Slate, 2022"
     image: "/uploads/7516A663-BEBC-4C89-A397-5AFAE4F960E7.jpeg"
-    is_priority: false
+    is_priority: true
   - description: "**[Jerry Hunt: *Transmissions from the Pleroma*](http://screenslate.com/articles/jerry-hunt-transmissions-pleroma)**,
       Screen Slate, 2022"
     image: "/uploads/Jerry-Hunt.jpg"
