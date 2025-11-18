@@ -93,9 +93,9 @@ h1, h2 {
         }
         .details {height:0px; overflow:hidden;}
         &.expanded {
-            margin:10px -12px 10px -12px; border:1px solid #eee;
+            margin:10px -12px 10px -12px; border:1px solid #ddd;
             .main, .details {padding:15px 12px;}
-            .details {background:#eee; height:auto;}
+            .details {background:#ddd; height:auto;}
         }
     }
 }
