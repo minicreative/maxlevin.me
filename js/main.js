@@ -86,7 +86,7 @@ function setupCalendar() {
 
             // Trim arrays if preview
             if (isPreview) {
-                pastItems = pastItems.slice(0, 3)
+                pastItems = []
                 upcomingItems = upcomingItems.slice(0, 3)
             }
 
@@ -98,12 +98,10 @@ function setupCalendar() {
 
             let html = $("<div></div>")
             if (!onlyPast) {
-                if (isPreview) html.append("<h2>Upcoming</h2>")
                 html.append(upcomingList)
                 if (isPreview) html.append("<p><a href='/upcoming-events'>View all upcoming events</a></p>")
             }
             if (!onlyUpcoming) {
-                if (isPreview) html.append("<h2>Past</h2>")
                 html.append(pastList)
                 if (isPreview) html.append("<p><a href='/past-events'>View all past events</a></p>")
             }

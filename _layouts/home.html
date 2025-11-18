@@ -12,6 +12,7 @@
         {{ page.content | markdownify }}
 
         {% for section in page.sections %}
+        <div class="section {{ section.class }}">
             <h2>{{ section.title }}</h2>
             {% if section.description %}{{ section.description | markdownify }}{% endif %}
 
@@ -34,6 +35,7 @@
                 <ul><li><i>Loading...</i></li></ul>
             </div>
             {% endif %}
+        </div>
         {% endfor %}
 
     </div>

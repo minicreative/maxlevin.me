@@ -205,12 +205,13 @@ sections:
   description: "*Abscissa* is an intermedia performance series I organized at the
     Emily Harvey Foundation, featuring Yoshiko Chuma, Samuel R. Delany, Carl Elsaesser,
     Shelley Hirsch, Lucy Ives, Liz Pelly, Aaron Roche,  Liara Roux, Courtney Stephens,
-    and many more, NYC 2024-2025<br>\n*Automatic Fields* is an eleven minute sound
+    and many more, NYC 2024-2025<br><br>\n*Automatic Fields* is an eleven minute sound
     installation I presented at Andrew Edlin Gallery, NYC, 2021<br>\nSome of my sound
     compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
-    \n<br>Ask me to send you something."
+    \n<br><br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
 - title: Radar
+  class: highlight
   calendarList: true
 layout: home
 ---
