@@ -15,40 +15,40 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[*On Joyce Wieland*](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**
-      for e-flux Criticism, 2025"
+  - description: "**[*On Joyce Wieland*](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
+      e-flux Criticism, 2025"
     image: "/uploads/14ceb8ae-251d-4aa7-9992-8ccbb6ee2a54.jpeg"
     is_priority: true
-  - description: "**[Interview: *Alanis Obomsawin Tells A Different Story*](https://art21.org/read/in-the-studio-alanis-obomsawin/)**
-      for Art21, 2025"
+  - description: "**[Interview: *Alanis Obomsawin Tells A Different Story*](https://art21.org/read/in-the-studio-alanis-obomsawin/)**,
+      Art21, 2025"
     image: "/uploads/ALANIS4461.jpeg"
     is_priority: 
-  - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**
-      for Screen Slate, 2025"
+  - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**,
+      Screen Slate, 2025"
     image: "/uploads/SS_AO.png"
     is_priority: false
-  - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**
-      at Scheusal, 2025"
+  - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**,
+      Scheusal, 2025"
     image: "/uploads/IMG_0329.jpeg"
     is_priority: 
-  - description: "**[Yair Oelbaum Interviewed](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**
-      for BOMB Magazine, 2025"
+  - description: "**[Yair Oelbaum Interviewed](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**,
+      BOMB Magazine, 2025"
     image: "/uploads/IMG_7466.jpeg"
     is_priority: false
-  - description: "**[Big Question: Enzo Camacho and Ami Lien](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**
-      for Art21, 2025"
+  - description: "**[Big Question: Enzo Camacho and Ami Lien](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**,
+      Art21, 2025"
     image: "/uploads/AmiEnzo.jpg"
     is_priority: 
-  - description: "**[Christian Marclay: *Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**
-      for Screen Slate, 2024"
+  - description: "**[Christian Marclay: *Subtitled*](https://www.screenslate.com/articles/christian-marclay-subtitled)**,
+      Screen Slate, 2024"
     image: "/uploads/IMG_0997.jpeg"
     is_priority: false
-  - description: "**[A Means of Abstraction: A Conversation With Robert Beavers](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**
-      for Screen Slate, 2024"
+  - description: "**[A Means of Abstraction: A Conversation With Robert Beavers](https://www.screenslate.com/articles/means-abstraction-conversation-robert-beavers)**,
+      Screen Slate, 2024"
     image: "/uploads/Beavers.jpg"
     is_priority: 
-  - description: "**[Approaching Understanding: On Gregory Markopoulos’s Temenos](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**
-      for MUBI Notebook, 2024"
+  - description: "**[Approaching Understanding: On Gregory Markopoulos’s Temenos](https://mubi.com/en/notebook/posts/approaching-understanding-on-gregory-markopoulos-s-temenos)**,
+      MUBI Notebook, 2024"
     image: "/uploads/IMG_1591.jpeg"
     is_priority: true
   - description: "**[Chantal Akerman’s *Travelling*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**
