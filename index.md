@@ -201,8 +201,6 @@ sections:
   - description: "**[Simone In The Moon (Live At Figure 8)](https://youtu.be/_83euDlNVJg?si=yfb11M07G9v_VPaH)**,
       2023"
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.21.52%20PM.png"
-- title: Radar
-  calendarList: true
 - title: Curatorial Projects
   description: "*Abscissa* is an intermedia performance series I organized at the
     Emily Harvey Foundation, featuring Yoshiko Chuma, Samuel R. Delany, Carl Elsaesser,
@@ -212,6 +210,8 @@ sections:
     compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
     \n<br>Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
+- title: Radar
+  calendarList: true
 layout: home
 ---
 
