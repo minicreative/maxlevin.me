@@ -143,7 +143,7 @@ sections:
   - description: "**[Clean Slate: On Ricky D'Ambrose's *The Cathedral*](https://lareviewofbooks.org/article/clean-slate-on-ricky-dambroses-the-cathedral/)**,
       LA Review of Books, 2023"
     image: "/uploads/forsite.jpg"
-    is_priority: false
+    is_priority: true
   - description: "**[Slayed: LGBTQ+ Horror Shorts](https://www.screenslate.com/articles/slayed-lgbtq-horror-shorts)**,
       Screen Slate, 2022"
     image: "/uploads/8C0E06D8-71BD-4153-993F-9666EE64B9CF.jpeg"
