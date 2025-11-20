@@ -26,7 +26,7 @@ sections:
   - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**,
       Screen Slate, 2025"
     image: "/uploads/SS_AO.png"
-    is_priority: false
+    is_priority: true
   - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**,
       Scheusal, 2025"
     image: "/uploads/IMG_0329.jpeg"
@@ -66,7 +66,7 @@ sections:
   - description: "**[Music That Doesn't Give An Answer: An Interview with Eiko Ishibashi](https://www.screenslate.com/articles/music-doesnt-give-answer-interview-eiko-ishibashi)**,
       Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
-    is_priority: true
+    is_priority: false
   - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**,
       Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
