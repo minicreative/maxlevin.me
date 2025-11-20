@@ -203,16 +203,16 @@ sections:
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.21.52%20PM.png"
 - title: Curatorial Projects
   description: "*Abscissa* is an intermedia performance series I organized at the
-    Emily Harvey Foundation, featuring Yoshiko Chuma, Samuel R. Delany, Carl Elsaesser,
-    Shelley Hirsch, Lucy Ives, Liz Pelly, Aaron Roche,  Liara Roux, Courtney Stephens,
-    and many more, NYC, 2024-2025<br><br>\nIn June 2025, I curated a film and music
-    event at the Emily Harvey Foundation, which included a rare performance of Alvin
-    Lucier’s “Theme” — in May 2025, I curated a sold-out event at Light & Sound Design,
-    featuring a first-time improvisation duo from Anthony Vine and Zosha Warpeha,
-    NYC<br><br> \nIn November 2021, I premiered my eleven minute sound installation
-    *Automatic Fields* at Andrew Edlin Gallery, NYC<br><br>\nSome of my sound compositions
-    can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**. Ask me to
-    send you something."
+    Emily Harvey Foundation, featuring Yoshiko Chuma, Loren Connors, Samuel R. Delany,
+    Shelley Hirsch, Muyassar Kurdi, Jodie Mack, Liz Pelly, Ethan Philbrick, Liara
+    Roux, Courtney Stephens, and many more, NYC, 2024-2025<br><br>\nIn June 2025,
+    I curated a film and music event at the Emily Harvey Foundation, which included
+    a rare performance of Alvin Lucier’s “Theme” — in May 2025, I curated a sold-out
+    event at Light & Sound Design, featuring a first-time improvisation duo from Anthony
+    Vine and Zosha Warpeha, NYC<br><br> \nIn November 2021, I premiered my eleven
+    minute sound installation *Automatic Fields* at Andrew Edlin Gallery, NYC<br><br>\nSome
+    of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
+    Ask me to send you something."
   image: "/uploads/a2750980685_10.jpg"
 - title: Radar
   class: highlight
