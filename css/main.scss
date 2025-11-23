@@ -83,6 +83,16 @@ h1, h2 {
         @include breakpoint(m) {
             padding:1px 30px 10px; margin-left:-30px; margin-right:-30px;
         }
+        a {border-bottom:1px solid white;}
+        #calendarList {
+            li {
+                .title {border-bottom:1px solid white;}
+                &.expanded {
+                    border:1px solid white;
+                    .details {background:white;}
+                }
+            }
+        }
     }
 }
 
