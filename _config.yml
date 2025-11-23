@@ -13,7 +13,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-default:
+defaults:
 - scope:
     path: ''
     type: subpages
