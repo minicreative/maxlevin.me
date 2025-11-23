@@ -8,7 +8,7 @@
 
     <div class="container home">
         <div id="mobileAccent"></div>
-        <h1>{{ site.title }}</h1>
+        <h1 class="site-title">{{ site.title }}</h1>
         {{ page.content | markdownify }}
 
         {% for section in page.sections %}
