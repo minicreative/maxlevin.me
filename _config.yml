@@ -2,15 +2,15 @@
 title: Max Levin
 timezone: America/New_York
 collections:
-  subpages:
-    title: subpages
-    permalink: /pages/:name/
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
+  subpages:
+    title: subpages
+    output: true
+    permalink: "/pages/:name/"
 sass:
   style: compressed
