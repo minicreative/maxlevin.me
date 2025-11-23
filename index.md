@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 position: 0
-mobileAccents:
+mobileAccentImages:
 - "/uploads/square1.jpeg"
 - "/uploads/square2.jpeg"
 - "/uploads/square3.jpeg"
