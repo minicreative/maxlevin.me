@@ -9,8 +9,16 @@ collections:
     title: Uploads
     output: true
   subpages:
-    title: subpages
+    title: Subpages
     output: true
     permalink: "/pages/:name/"
+    images: true
+default:
+  - scope:
+      path: ""
+      type: "subpages"
+    values:
+      layout: "subpage"
+      image: []
 sass:
   style: compressed

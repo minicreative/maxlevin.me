@@ -11,18 +11,18 @@
 		<!-- CSS Includes -->
 		<link rel="stylesheet" href="/css/main.css">
 
-		<!-- Gallery Plugins -->
-		{% if page.layout == 'gallery' %}
-		<link rel="stylesheet" href="https://unpkg.com/justifiedGallery@3/dist/css/justifiedGallery.min.css" />
-		<script src="https://unpkg.com/justifiedGallery@3/dist/js/jquery.justifiedGallery.min.js"></script>
-		<link rel="stylesheet" href="https://unpkg.com/lightbox2@2.11.3/dist/css/lightbox.min.css" />
-		<script src="https://unpkg.com/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
-		{% endif %}
-
 		<!-- JS Includes -->
 		<script src="https://unpkg.com/jquery@3/dist/jquery.min.js"></script>
 		<script src="https://www.unpkg.com/dayjs@1.11.7/dayjs.min.js"></script>
 		<script type="module" src="/js/main.js"></script>
+
+		<!-- Gallery Plugins -->
+		{% if page.layout == 'subpage' %}
+		<link rel="stylesheet" href="/js/justifiedGallery/justifiedGallery.min.css" />
+		<script src="/js/justifiedGallery/jquery.justifiedGallery.min.js"></script>
+		<link rel="stylesheet" href="https://unpkg.com/lightbox2@2.11.3/dist/css/lightbox.min.css" />
+		<script src="https://unpkg.com/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
+		{% endif %}
 
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-MWP1BH9Y2D"></script>
