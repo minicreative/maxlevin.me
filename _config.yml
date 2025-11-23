@@ -19,6 +19,6 @@ defaults:
     type: subpages
   values:
     layout: subpage
-    image: []
+    images: []
 sass:
   style: compressed
