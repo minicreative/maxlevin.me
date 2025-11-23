@@ -2,6 +2,7 @@
 title: '"Witches, Angels, and Thieves: I''m Thinking of Sampling Things" for stop.gap
   Issue 3, Summer 2021'
 date: 2022-04-20 20:55:00 -04:00
+layout: subpage
 images:
 - "/uploads/SG1.JPG"
 - "/uploads/SG2.JPG"
@@ -20,7 +21,6 @@ images:
 - "/uploads/SG15.JPG"
 - "/uploads/SG16.png"
 - "/uploads/IMG_0639.jpg"
-layout: gallery
 ---
 
 Physical copies can be ordered [here](https://www.owenchristoph.com/shop/stopgap003). 

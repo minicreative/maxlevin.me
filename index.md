@@ -176,7 +176,7 @@ sections:
       56 Henry, NYC, 2022"
     image: "/uploads/tinkler2.jpg"
     is_priority: false
-  - description: "**[Witches, Angels, and Thieves: I'm Thinking of Sampling Things](https://maxlevin.me/galleries/stopgap.html)**,
+  - description: "**[Witches, Angels, and Thieves: I'm Thinking of Sampling Things](/subpages/stopgap)**,
       stop.gap, 2021"
     image: "/uploads/slip.jpg"
     is_priority: false

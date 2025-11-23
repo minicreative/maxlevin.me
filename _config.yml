@@ -2,8 +2,9 @@
 title: Max Levin
 timezone: America/New_York
 collections:
-  galleries:
-    title: Galleries
+  subpages:
+    title: subpages
+    permalink: /pages/:name/
     output: true
   posts:
     title: Posts
