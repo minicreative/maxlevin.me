@@ -5,20 +5,20 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   subpages:
     title: Subpages
     output: true
     permalink: "/pages/:name/"
     images: true
+  uploads:
+    title: Uploads
+    output: true
 default:
-  - scope:
-      path: ""
-      type: "subpages"
-    values:
-      layout: "subpage"
-      image: []
+- scope:
+    path: ''
+    type: subpages
+  values:
+    layout: subpage
+    image: []
 sass:
   style: compressed
