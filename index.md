@@ -205,12 +205,13 @@ sections:
   items:
   - description: "**[Abscissa](/pages/abscissa/)** is an intermedia performance series
       I organized at the Emily Harvey Foundation, NYC"
-  - description: In June 2025, I curated a film and music event at the Emily Harvey
-      Foundation, which included a rare performance of Alvin Lucier’s “Theme” — in
-      May 2025, I curated a sold-out event at Light & Sound Design, featuring a first-time
-      improvisation duo from Anthony Vine and Zosha Warpeha, NYC
-  - description: In November 2021, I premiered my eleven minute sound installation
-      *Automatic Fields* at Andrew Edlin Gallery, NYC
+  - description: 'I organized an ensemble to perform Alvin Lucier’s “Theme” alongside
+      a screening of my video “Reliquary Grammar” in June 2025 at the Emily Harvey
+      Foundation, and in April 2025 I showed “Reliquary Grammar” in a sold-out event
+      at Light & Sound Design featuring a first-time improvisation duo from Anthony
+      Vine and Zosha Warpeha '
+  - description: I presented my eleven minute sound installation *Automatic Fields*
+      in November 2021 at Andrew Edlin Gallery, NYC
   - description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
       Ask me to send you something.
 - title: Radar
