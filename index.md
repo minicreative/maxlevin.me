@@ -99,7 +99,7 @@ sections:
       Weerasethakul](uploads/Millennium%20Film%20Journal%2078%20copyML.pdf)**, Millenium
       Film Journal, 2023"
     image: "/uploads/1200%20Morakot_0.jpg"
-    is_priority: true
+    is_priority: false
   - description: "**[*Sexy Beast*](https://www.screenslate.com/articles/sexy-beast)**,
       Screen Slate, 2023"
     image: "/uploads/sexy-beast.jpg"
