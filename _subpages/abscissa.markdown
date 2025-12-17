@@ -3,4 +3,8 @@ title: Abscissa
 date: 2025-11-23 14:41:00 -05:00
 ---
 
-Abscissa is an intermedia performance series I organized at the Emily Harvey Foundation, featuring Yoshiko Chuma, Loren Connors, Samuel R. Delany, Shelley Hirsch, Muyassar Kurdi, Jodie Mack, Liz Pelly, Ethan Philbrick, Liara Roux, Courtney Stephens, and many more, NYC, 2024-2025
+Abscissa 1: Yoshiko Chuma, Liz Pelly, Aaron Roche, Marisa Nakasone, Este Lewis, Carl Elsaesser, Hazel Katz, Roger van Vorhees, Wyatt Bertz,
+
+Abscissa 2:
+
+Abscissa 3: Samuel R. Delany, 
