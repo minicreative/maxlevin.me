@@ -204,7 +204,7 @@ sections:
 - title: Curatorial Projects
   items:
   - description: "**[Abscissa](/pages/abscissa/)** is an intermedia performance series
-      I organized at the Emily Harvey Foundation, NYC, 2024-2025"
+      I organized at the Emily Harvey Foundation, NYC"
   - description: In June 2025, I curated a film and music event at the Emily Harvey
       Foundation, which included a rare performance of Alvin Lucier’s “Theme” — in
       May 2025, I curated a sold-out event at Light & Sound Design, featuring a first-time
