@@ -215,7 +215,6 @@ sections:
   - description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
       Ask me to send you something.
 - title: Radar
-  class: highlight
   calendarList: true
 layout: home
 ---
