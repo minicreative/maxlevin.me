@@ -190,6 +190,8 @@ sections:
     is_priority: false
 - title: Videos
   items:
+  - description: "**Irregular Studies**, 2026"
+    image: 
   - description: "**Reliquary Grammar**, 2025"
     image: "/uploads/Screenshot%202025-03-03%20at%204.40.12%20PM.jpg"
   - description: "**[Here I Am](https://youtu.be/EOz2dBQDTuI?si=OCM42ZyhP854Cdam)**,
