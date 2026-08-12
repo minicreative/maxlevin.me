@@ -205,14 +205,14 @@ sections:
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.21.52%20PM.png"
 - title: Curatorial Projects
   items:
-  - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
-      2024-2025, NYC"
-  - description: I organized an ensemble to perform Alvin Lucier’s “Theme” alongside
+  - description: I programmed the intermedia series **[Abscissa](/pages/abscissa/)**
+      at the Emily Harvey Foundation, 2024-2025, NYC
+  - description: I organized an ensemble to perform Alvin Lucier’s *Theme* alongside
       a screening of my video *Reliquary Grammar* at the Emily Harvey Foundation,
       2025, NYC
-  - description: In November 2021, I presented my sound installation *Automatic Fields*
-      at Andrew Edlin Gallery, NYC
-  - description: Some of my sound compositions can be found on Bandcamp **[here](https://maxlevin.bandcamp.com)**.
+  - description: I presented my sound installation *Automatic Fields* in an Agatha
+      Wojciechowsky exhibition at Andrew Edlin Gallery, 2021, NYC
+  - description: Some of my sound work is **[here](https://maxlevin.bandcamp.com)**.
       Ask me to send you something.
 - title: Radar
   calendarList: true
