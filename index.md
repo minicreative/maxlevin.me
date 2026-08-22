@@ -18,7 +18,7 @@ sections:
   - description: "**[*On Joyce Wieland*](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
       e-flux Criticism, 2025"
     image: "/uploads/14ceb8ae-251d-4aa7-9992-8ccbb6ee2a54.jpeg"
-    is_priority: false
+    is_priority: true
   - description: "**[Interview: *Alanis Obomsawin Tells A Different Story*](https://art21.org/read/in-the-studio-alanis-obomsawin/)**,
       Art21, 2025"
     image: "/uploads/ALANIS4461.jpeg"
@@ -26,7 +26,7 @@ sections:
   - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**,
       Screen Slate, 2025"
     image: "/uploads/SS_AO.png"
-    is_priority: true
+    is_priority: false
   - description: "**[Hanne Darboven & Este Lewis, *Micky*](https://www.contemporaryartlibrary.org/project/hanne-darboven-este-lewis-at-scheusal-berlin-51408)**,
       Scheusal, 2025"
     image: "/uploads/IMG_0329.jpeg"
