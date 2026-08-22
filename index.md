@@ -205,9 +205,8 @@ sections:
   items:
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
       at the Emily Harvey Foundation, 2024-2025, NYC
-  - description: Organized an ensemble (Anthony Vine, Nathaniel Otting, Danielle Johnson,
-      and myself) to perform Alvin Lucier’s *Theme* at the Emily Harvey Foundation,
-      2025, NYC
+  - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
+      Harvey Foundation, 2025, NYC
   - description: Curated a first-time duo performance between Anthony Vine and Zosha
       Warpeha at Light & Sound Design, 2025, NYC
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
