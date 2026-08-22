@@ -206,11 +206,10 @@ sections:
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
       at the Emily Harvey Foundation, 2024-2025, NYC
   - description: Organized an ensemble (Anthony Vine, Nathaniel Otting, Danielle Johnson,
-      and myself) to perform Alvin Lucier’s *Theme* alongside a screening of my video
-      *Reliquary Grammar* at the Emily Harvey Foundation, 2025, NYC
-  - description: Curated a first-time duo performance between Anthony Vine and Zosha
-      Warpeha alongside a screening of *Reliquary Grammar* at Light & Sound Design,
+      and myself) to perform Alvin Lucier’s *Theme* at the Emily Harvey Foundation,
       2025, NYC
+  - description: Curated a first-time duo performance between Anthony Vine and Zosha
+      Warpeha at Light & Sound Design, 2025, NYC
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, 2021, NYC
   - description: Some of my sound work is **[here](https://maxlevin.bandcamp.com)**.
