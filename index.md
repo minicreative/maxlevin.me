@@ -15,7 +15,7 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
-  - description: "**[*On Joyce Wieland*](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
+  - description: "**[On Joyce Wieland](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
       e-flux Criticism, 2025"
     image: "/uploads/14ceb8ae-251d-4aa7-9992-8ccbb6ee2a54.jpeg"
     is_priority: true
@@ -23,7 +23,7 @@ sections:
       Art21, 2025"
     image: "/uploads/ALANIS4461.jpeg"
     is_priority: 
-  - description: "**[*Alanis Obomsawin: The Children Have To Hear Another Story*](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**,
+  - description: "**[Alanis Obomsawin: The Children Have To Hear Another Story](https://www.screenslate.com/articles/alanis-obomsawin-children-have-hear-another-story)**,
       Screen Slate, 2025"
     image: "/uploads/SS_AO.png"
     is_priority: false
@@ -67,7 +67,7 @@ sections:
       Screen Slate, 2024"
     image: "/uploads/Eiko-Ishibashi.jpeg"
     is_priority: false
-  - description: "**[Arthur Jafa's BLACK POWER TOOL AND DIE TRYNIG + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**,
+  - description: "**[Arthur Jafa's *BLACK POWER TOOL AND DIE TRYNIG* + *****](https://www.screenslate.com/articles/arthur-jafas-black-power-tool-and-die-trynig)**,
       Screen Slate, 2024"
     image: "/uploads/Arthur-Jafa.jpeg"
     is_priority: false
