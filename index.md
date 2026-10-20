@@ -198,8 +198,6 @@ sections:
       Warpeha at Light & Sound Design, 2025, NYC
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, 2021, NYC
-  - description: Some of my sound work is **[here](https://maxlevin.bandcamp.com)**.
-      Ask me to send you something.
 - title: Videos
   items:
   - description: "**Reliquary Grammar**, 2025"
