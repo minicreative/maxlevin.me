@@ -188,6 +188,18 @@ sections:
       Dirt, 2020"
     image: "/uploads/1.jpg"
     is_priority: false
+- title: Curatorial Projects
+  items:
+  - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
+      at the Emily Harvey Foundation, 2024-2025, NYC
+  - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
+      Harvey Foundation, 2025, NYC
+  - description: Curated a first-time duo performance between Anthony Vine and Zosha
+      Warpeha at Light & Sound Design, 2025, NYC
+  - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
+      exhibition at Andrew Edlin Gallery, 2021, NYC
+  - description: Some of my sound work is **[here](https://maxlevin.bandcamp.com)**.
+      Ask me to send you something.
 - title: Videos
   items:
   - description: "**Reliquary Grammar**, 2025"
@@ -201,18 +213,6 @@ sections:
   - description: "**[Simone In The Moon (Live At Figure 8)](https://youtu.be/_83euDlNVJg?si=yfb11M07G9v_VPaH)**,
       2023"
     image: "/uploads/Screen%20Shot%202024-04-04%20at%204.21.52%20PM.png"
-- title: Curatorial Projects
-  items:
-  - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
-      at the Emily Harvey Foundation, 2024-2025, NYC
-  - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
-      Harvey Foundation, 2025, NYC
-  - description: Curated a first-time duo performance between Anthony Vine and Zosha
-      Warpeha at Light & Sound Design, 2025, NYC
-  - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
-      exhibition at Andrew Edlin Gallery, 2021, NYC
-  - description: Some of my sound work is **[here](https://maxlevin.bandcamp.com)**.
-      Ask me to send you something.
 - title: Radar
   calendarList: true
 layout: home
