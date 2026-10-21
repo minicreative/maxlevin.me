@@ -189,15 +189,20 @@ sections:
     image: "/uploads/1.jpg"
     is_priority: false
 - title: Curatorial Projects
+  priority_button: View all projects
   items:
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
       at the Emily Harvey Foundation, 2024-2025, NYC
+    is_priority: true
   - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
       Harvey Foundation, 2025, NYC
+    is_priority: true
   - description: Curated a first-time duo performance between Anthony Vine and Zosha
       Warpeha at Light & Sound Design, 2025, NYC
+    is_priority: true
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, 2021, NYC
+    is_priority: false
 - title: Videos
   items:
   - description: "**Reliquary Grammar**, 2025"
