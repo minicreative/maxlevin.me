@@ -191,6 +191,10 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
+  - description: 'Strings & Instrumentals: gabby fluke-mogul, Jessica Pavone, Lester
+      St. Louis, Tristan Kasten-Krause, and Ron Shalom  perform work by MICA LEVI
+      and ROBERT ASHLEY and improvise with Ka Baird, at L&SD, 2026'
+    is_priority: 
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
       at the Emily Harvey Foundation, 2024-2025, NYC
     is_priority: true
