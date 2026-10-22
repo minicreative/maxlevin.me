@@ -199,8 +199,8 @@ sections:
       NYC, 2026
     is_priority: true
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
-      Robert Ashley & Mica Levi performed by String Ensemble + Jude Berkson + Ka Baird
-      at Light & Sound Design, NYC, 2026"
+      Robert Ashley & Mica Levi performed by Ensemble + Jude Berkson + Ka Baird at
+      Light & Sound Design, NYC, 2026"
     is_priority: true
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
