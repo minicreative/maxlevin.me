@@ -191,9 +191,9 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
-  - description: 'STRINGS & INSTRUMENTALS: Works by Mica Levi and Robert Ashley performed
-      by gabby fluke-mogul, Jessica Pavone, Lester St. Louis, Tristan Kasten-Krause,
-      and Ron Shalom  + Judith Berkson + Ka Baird, at Light & Sound Design, NYC, 2026'
+  - description: 'STRINGS & ELECTRONICS: Robert Ashley & MICA LEVI performed by gabby
+      fluke-mogul, Jessica Pavone, Lester St. Louis, Tristan Kasten-Krause, and Ron
+      Shalom  + Judith Berkson + Ka Baird, at Light & Sound Design, NYC, 2026'
     is_priority: true
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
