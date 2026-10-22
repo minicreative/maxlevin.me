@@ -209,11 +209,12 @@ sections:
   - description: Michael Rozek's **[MARIANNE](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0223.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**
       at the Emily Harvey Foundation, NYC, 2025
     is_priority: 
-  - description: My film Reliquary Grammar + Alvin Lucier’s **[Theme](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0217.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**
-      at the Emily Harvey Foundation, NYC, 2025
+  - description: My film Reliquary Grammar + Alvin Lucier’s Theme at the **[Emily
+      Harvey Foundation](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0217.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**,
+      NYC, 2025
     is_priority: false
-  - description: My film **[Reliquary Grammar](https://lightandsound.design/e/reliquarygrammar)**
-      + Anthony Vine and Zosha Warpeha at Light & Sound Design, NYC, 2025
+  - description: My film Reliquary Grammar + Anthony Vine and Zosha Warpeha at **[Light
+      & Sound Design](https://lightandsound.design/e/reliquarygrammar)**, NYC, 2025
     is_priority: false
   - description: My sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, NYC, 2021
