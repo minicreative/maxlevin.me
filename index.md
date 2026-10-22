@@ -191,21 +191,21 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
-  - description: 'Strings & Instrumentals: gabby fluke-mogul, Jessica Pavone, Lester
-      St. Louis, Tristan Kasten-Krause, and Ron Shalom  perform work by MICA LEVI
-      and ROBERT ASHLEY and improvise with Ka Baird, at L&SD, 2026'
-    is_priority: 
+  - description: 'Strings & Instrumentals: works by Mica Levi and Robert Ashley performed
+      by gabby fluke-mogul, Jessica Pavone, Lester St. Louis, Tristan Kasten-Krause,
+      and Ron Shalom  + Judith Berkson + Ka Baird, at L&SD, NYC, 2026'
+    is_priority: true
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
-      at the Emily Harvey Foundation, 2024-2025, NYC
+      at the Emily Harvey Foundation, NYC, 2024-2025
     is_priority: true
   - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
-      Harvey Foundation, 2025, NYC
+      Harvey Foundation, NYC, 2025
     is_priority: true
   - description: Curated a first-time duo performance between Anthony Vine and Zosha
-      Warpeha at Light & Sound Design, 2025, NYC
+      Warpeha at L&SD, NYC, 2025
     is_priority: false
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
-      exhibition at Andrew Edlin Gallery, 2021, NYC
+      exhibition at Andrew Edlin Gallery, NYC, 2021
     is_priority: false
 - title: Videos
   items:
