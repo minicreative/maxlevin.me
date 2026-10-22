@@ -191,11 +191,18 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
+  - description: Ron Like Hell (DJ) and Ivy Meadows (Lights) at **[Smilers](https://www.smilers.nyc/events/ron-like-hell-ivy-meadows)**,
+      NYC, 2026
+    is_priority: true
+  - description: Kate McCambridge // Yoshiko Chuma & The School of Hard Knocks at
+      **[Smilers](https://www.smilers.nyc/events/yoshiko-chuma-the-school-of-hard-knocks-kate-mccambridge)**,
+      NYC, 2026
+    is_priority: true
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
       Robert Ashley & Mica Levi performed by gabby fluke-mogul, Jessica Pavone, Lester
-      St. Louis, Tristan Kasten-Krause, and Ron Shalom  + Jude Berkson + Ka Baird,
+      St. Louis, Tristan Kasten-Krause, and Ron Shalom  + Jude Berkson + Ka Baird
       at Light & Sound Design, NYC, 2026"
-    is_priority: true
+    is_priority: false
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
     is_priority: true
