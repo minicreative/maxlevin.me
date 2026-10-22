@@ -199,10 +199,9 @@ sections:
       NYC, 2026
     is_priority: true
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
-      Robert Ashley & Mica Levi performed by gabby fluke-mogul, Jessica Pavone, Lester
-      St. Louis, Tristan Kasten-Krause, and Ron Shalom  + Jude Berkson + Ka Baird
+      Robert Ashley & Mica Levi performed by String Ensemble + Jude Berkson + Ka Baird
       at Light & Sound Design, NYC, 2026"
-    is_priority: false
+    is_priority: true
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
     is_priority: true
