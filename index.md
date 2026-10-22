@@ -191,16 +191,22 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
-  - description: 'STRINGS & ELECTRONICS: Robert Ashley & MICA LEVI performed by gabby
-      fluke-mogul, Jessica Pavone, Lester St. Louis, Tristan Kasten-Krause, and Ron
-      Shalom  + Judith Berkson + Ka Baird, at Light & Sound Design, NYC, 2026'
+  - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
+      Robert Ashley & Mica Levi performed by gabby fluke-mogul, Jessica Pavone, Lester
+      St. Louis, Tristan Kasten-Krause, and Ron Shalom  + Jude Berkson + Ka Baird,
+      at Light & Sound Design, NYC, 2026"
     is_priority: true
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
     is_priority: true
-  - description: Alvin Lucier’s *Theme* at the Emily Harvey Foundation, NYC, 2025
+  - description: Michael Rozek's **[MARIANNE](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0223.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**
+      at the Emily Harvey Foundation, NYC, 2025
+    is_priority: 
+  - description: My film Reliquary Grammar + Alvin Lucier’s **[Theme](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0217.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**
+      at the Emily Harvey Foundation, NYC, 2025
     is_priority: false
-  - description: Anthony Vine and Zosha Warpeha at Light & Sound Design, NYC, 2025
+  - description: My film **[Reliquary Grammar](https://lightandsound.design/e/reliquarygrammar)**
+      + Anthony Vine and Zosha Warpeha at Light & Sound Design, NYC, 2025
     is_priority: false
   - description: My sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, NYC, 2021
