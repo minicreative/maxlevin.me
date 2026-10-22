@@ -209,6 +209,9 @@ sections:
   - description: Michael Rozek's **[MARIANNE](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0223.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**
       at the Emily Harvey Foundation, NYC, 2025
     is_priority: 
+  - description: "**[Paraliterary Room](https://www.smilers.nyc/exhibitions/report-from-nori-mountain)**
+      at Smilers, NYC, 2025 "
+    is_priority: 
   - description: My film Reliquary Grammar + Alvin Lucier’s Theme at the **[Emily
       Harvey Foundation](https://www.emilyharveyfoundation.org/JS/pdfjs/web/viewer.html?file=/newyork/PDF/EmilyHarveyFoundation/0217.pdf&url=/newyork/Pages/emilyharveyfoundation.html&pos=1544&nav=Past%20Exhibitions)**,
       NYC, 2025
