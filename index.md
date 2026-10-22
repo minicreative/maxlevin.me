@@ -193,16 +193,16 @@ sections:
   items:
   - description: 'Strings & Instrumentals: works by Mica Levi and Robert Ashley performed
       by gabby fluke-mogul, Jessica Pavone, Lester St. Louis, Tristan Kasten-Krause,
-      and Ron Shalom  + Judith Berkson + Ka Baird, at L&SD, NYC, 2026'
+      and Ron Shalom  + Judith Berkson + Ka Baird, at Light & Sound Design, NYC, 2026'
     is_priority: true
   - description: Programmed the intermedia series **[Abscissa](/pages/abscissa/)**
       at the Emily Harvey Foundation, NYC, 2024-2025
     is_priority: true
   - description: Organized an ensemble to perform Alvin Lucier’s *Theme* at the Emily
       Harvey Foundation, NYC, 2025
-    is_priority: true
+    is_priority: false
   - description: Curated a first-time duo performance between Anthony Vine and Zosha
-      Warpeha at L&SD, NYC, 2025
+      Warpeha at Light & Sound Design, NYC, 2025
     is_priority: false
   - description: Presented my sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, NYC, 2021
