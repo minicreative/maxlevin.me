@@ -198,9 +198,8 @@ sections:
       **[Smilers](https://www.smilers.nyc/events/yoshiko-chuma-the-school-of-hard-knocks-kate-mccambridge)**,
       NYC, 2026
     is_priority: true
-  - description: Archestratus the Memorious, featuring Jesi Cook, Este Lewis, Peter
-      BD, Bryce Hackford & Dominika Mazurová, at Archestratus Books & Foods, NYC,
-      2026
+  - description: 'Archestratus the Memorious: Jesi Cook, Este Lewis, Peter BD, Bryce
+      Hackford & Dominika Mazurová, at Archestratus Books & Foods, NYC, 2026'
     is_priority: 
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
       Ensemble performs work by Robert Ashley & Mica Levi // Jude Berkson // Ka Baird
@@ -225,6 +224,9 @@ sections:
   - description: My sound composition *Automatic Fields* in an Agatha Wojciechowsky
       exhibition at Andrew Edlin Gallery, NYC, 2021
     is_priority: false
+  - description: 'Unbroken Chain: Richard Tinkler, Laura Tighe, Philip Evich, Anahita
+      Bradbury, John Syzonenko at Two Six Eight, NYC, 2020'
+    is_priority: 
 - title: Videos
   items:
   - description: "**Reliquary Grammar**, 2025"
