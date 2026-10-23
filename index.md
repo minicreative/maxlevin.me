@@ -198,6 +198,10 @@ sections:
       **[Smilers](https://www.smilers.nyc/events/yoshiko-chuma-the-school-of-hard-knocks-kate-mccambridge)**,
       NYC, 2026
     is_priority: true
+  - description: Archestratus the Memorious, featuring Jesi Cook, Este Lewis, Peter
+      BD, Bryce Hackford & Dominika Mazurová, at Archestratus Books & Foods, NYC,
+      2026
+    is_priority: 
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
       Ensemble performs work by Robert Ashley & Mica Levi // Jude Berkson // Ka Baird
       at Light & Sound Design, NYC, 2026"
