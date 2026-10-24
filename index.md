@@ -191,7 +191,7 @@ sections:
 - title: Curatorial Projects
   priority_button: View all projects
   items:
-  - description: Ron Like Hell (DJ) and Ivy Meadows (Lights) at **[Smilers](https://www.smilers.nyc/events/ron-like-hell-ivy-meadows)**,
+  - description: Ron Like Hell (DJ) and Ivy Meadows (lights) at **[Smilers](https://www.smilers.nyc/events/ron-like-hell-ivy-meadows)**,
       NYC, 2026
     is_priority: true
   - description: Kate McCambridge // Yoshiko Chuma & The School of Hard Knocks at
