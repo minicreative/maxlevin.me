@@ -113,7 +113,7 @@ sections:
     image: "/uploads/Somewhere.jpg"
     is_priority: false
   - description: "**[Frances Stark Interviewed](https://bombmagazine.org/articles/frances-stark-interviewed/)**,
-      *BOMB* Magazine, 2023"
+      *BOMB*, 2023"
     image: "/uploads/The-Deployment-of-Private-Huerta-Frances-Stark1.jpg"
     is_priority: true
   - description: "**[*Secondary*](https://www.screenslate.com/articles/secondary)**,
