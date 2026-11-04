@@ -195,7 +195,7 @@ sections:
       NYC, 2026
     is_priority: true
   - description: Kate McCambridge // Yoshiko Chuma & The School of Hard Knocks at
-      **[Smilers](https://www.smilers.nyc/events/yoshiko-chuma-the-school-of-hard-knocks-kate-mccambridge)**,
+      **[Smilers](https://www.smilers.nyc/events/yoshiko-chuma-and-the-school-of-hard-knocks-kate-mccambridge)**,
       NYC, 2026
     is_priority: true
   - description: 'Archestratus the Memorious: Jesi Cook, Este Lewis, Peter BD, Bryce
