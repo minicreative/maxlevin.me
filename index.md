@@ -32,7 +32,7 @@ sections:
     image: "/uploads/IMG_0329.jpeg"
     is_priority: 
   - description: "**[Yair Oelbaum Interviewed](https://bombmagazine.org/articles/2025/02/24/yair-oelbaum-by-max-levin/)**,
-      BOMB Magazine, 2025"
+      BOMB, 2025"
     image: "/uploads/IMG_7466.jpeg"
     is_priority: false
   - description: "**[Big Question: Enzo Camacho and Ami Lien](https://art21.org/read/big-question-enzo-camacho-and-ami-lien/)**,
