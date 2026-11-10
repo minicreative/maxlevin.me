@@ -51,7 +51,7 @@ sections:
       MUBI Notebook, 2024"
     image: "/uploads/IMG_1591.jpeg"
     is_priority: true
-  - description: "**[Chantal Akerman’s *Travelling*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**,
+  - description: "**[Chantal Akerman: *Travelling*](https://www.e-flux.com/criticism/619146/chantal-akerman-s-travelling)**,
       e-flux Criticism, 2024"
     image: "/uploads/AkermanSmall.jpeg"
     is_priority: true
