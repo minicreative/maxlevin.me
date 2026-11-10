@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[Theresa Hak Kyung Cha: Multiple Offerings](https://www.screenslate.com/articles/theresa-hak-kyung-cha-multiple-offerings)**,
+      Screen Slate, 2026"
+    image: 
+    is_priority: true
   - description: "**[On Joyce Wieland](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
       e-flux Criticism, 2025"
     image: "/uploads/14ceb8ae-251d-4aa7-9992-8ccbb6ee2a54.jpeg"
