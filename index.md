@@ -17,7 +17,7 @@ sections:
   items:
   - description: "**[Theresa Hak Kyung Cha: Multiple Offerings](https://www.screenslate.com/articles/theresa-hak-kyung-cha-multiple-offerings)**,
       Screen Slate, 2026"
-    image: 
+    image: "/uploads/IMG_4060.jpeg"
     is_priority: true
   - description: "**[On Joyce Wieland](https://www.e-flux.com/criticism/6782341/on-joyce-wieland)**,
       e-flux Criticism, 2025"
