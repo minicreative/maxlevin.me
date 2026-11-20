@@ -15,6 +15,10 @@ sections:
 - title: Writing
   priority_button: View all writing
   items:
+  - description: "**[Galaxie](https://www.screenslate.com/articles/theresa-hak-kyung-cha-multiple-offerings)**,
+      Screen Slate, 2026"
+    image: 
+    is_priority: 
   - description: "**[Theresa Hak Kyung Cha: Multiple Offerings](https://www.screenslate.com/articles/theresa-hak-kyung-cha-multiple-offerings)**,
       Screen Slate, 2026"
     image: "/uploads/IMG_4060.jpeg"
