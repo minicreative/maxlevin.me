@@ -210,8 +210,8 @@ sections:
       Hackford & Dominika Mazurová, at Archestratus Books & Foods, NYC, 2026'
     is_priority: 
   - description: "**[Strings & Electronics](https://lightandsound.design/e/strings-electronics)**:
-      Ensemble performs work by Robert Ashley & Mica Levi // Jude Berkson // Ka Baird
-      at Light & Sound Design, NYC, 2026"
+      Ensemble performs Robert Ashley & Mica Levi // Jude Berkson // Ka Baird at Light
+      & Sound Design, NYC, 2026"
     is_priority: true
   - description: "**[Abscissa](/pages/abscissa/)** at the Emily Harvey Foundation,
       NYC, 2024-2025"
